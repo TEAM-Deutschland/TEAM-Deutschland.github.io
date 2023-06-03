@@ -9,7 +9,7 @@ Aktuell erfolgt die Organisation der TEAM-D durch:
 _UCT Mainz_
 
 **Dr. Sebastian Lange** [<i class="fas fa-link" aria-hidden="true"></i>](https://www.med2.mri.tum.de/de/team/cv/lange.php) [![Twitter URL](https://img.shields.io/twitter/follow/seblange?style=social)](https://twitter.com/SebLange)
-_CCC München^TUM^_
+_CCC München<sup>TUM</sup>_
 
 **Dr. Ina Pretzell** [<i class="fas fa-link" aria-hidden="true"></i>](https://wtz-essen.de/index.php?id=232) 
 _WTZ Essen_
