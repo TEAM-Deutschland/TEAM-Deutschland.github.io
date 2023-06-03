@@ -1,6 +1,6 @@
 ---
-permalink: /idee/
-title: "Idee/Konzept"
+permalink: /organisation/
+title: "Organisation"
 author_profile: true
 ---
 
