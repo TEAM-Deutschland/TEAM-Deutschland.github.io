@@ -1,7 +1,7 @@
 ---
 title: "AKT/MTOR/PTEN"
-collection: talks
-permalink: /talks/meeting-2
+collection: termine
+permalink: /termine/meeting-2
 date: 2023-09-06
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "PIK3CA"
-collection: talks
-permalink: /talks/meeting-1
+collection: termine
+permalink: /termine/meeting-1
 date: 2023-07-05
 ---
 
