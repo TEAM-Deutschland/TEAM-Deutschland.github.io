@@ -9,4 +9,4 @@ date: 2023-09-06
 Meeting ID: 661 7977 8926
 Passcode: 659300
 
-[Outlook-Kalendareintrag](http://academicpages.github.io/files/2.ics)
+[Outlook-Kalendareintrag](https://team-deutschland.github.io/files/2.ics)
