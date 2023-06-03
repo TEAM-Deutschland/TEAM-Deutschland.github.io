@@ -14,4 +14,4 @@ _CCC München<sup>TUM</sup>_
 **Dr. Ina Pretzell** [<i class="fas fa-link" aria-hidden="true"></i>](https://wtz-essen.de/index.php?id=232)  
 _WTZ Essen_
 
-Das Organisationsteamsucht nach weiteren Mitstreitern aus anderen Standorten! Bei Interesse gerne unter info@team-deutschland.org melden.
+Das Organisationsteamsucht nach weiteren Mitstreitern aus anderen Standorten! Bei Interesse gerne [melden](mailto:info@team-deutschland.org).
