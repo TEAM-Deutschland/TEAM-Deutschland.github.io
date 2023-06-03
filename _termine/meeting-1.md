@@ -9,4 +9,4 @@ date: 2023-07-05
 Meeting ID: 652 9415 8178
 Passcode: 662779
 
-[Outlook-Kalendareintrag](https://team-deutschland.github.io/files/1.ics)
+[Outlook-Kalendareintrag](https://team-deutschland.org/files/1.ics)

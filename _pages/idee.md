@@ -10,7 +10,7 @@ Bisher bereits **intensiver** deutschlandweiter Austausch über **organisatorisc
 * wenig **Vernetzung** der „zweiten“ Ebene
 
 ### Vorschlag
-Schaffung eines **regelmäßigen** deutschlandweiten Austauschformates, welche insbesondere “häufige“ Diskussionsthemen aus dem Alltag (_KRAS-mut. Pankreaskarzinom, Einsatz von CDK4/6- oder MTOR-Inhibitoren_) **zentral diskutiert**. Dies wurde bereits im Molekularen Tumorboard des Bayerisches Zentrum für Krebsforschung [pilotiert](https://team-deutschland.github.io/files/BZKF-MTB.pdf).
+Schaffung eines **regelmäßigen** deutschlandweiten Austauschformates, welche insbesondere “häufige“ Diskussionsthemen aus dem Alltag (_KRAS-mut. Pankreaskarzinom, Einsatz von CDK4/6- oder MTOR-Inhibitoren_) **zentral diskutiert**. Dies wurde bereits im Molekularen Tumorboard des Bayerisches Zentrum für Krebsforschung [pilotiert](https://team-deutschland.org/files/BZKF-MTB.pdf).
 
 ### Ziel
 * Unterstützung der **Harmonisierung und Qualitätssicherung** der Präzisionsonkologie in Deutschland
