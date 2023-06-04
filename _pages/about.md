@@ -12,5 +12,7 @@ Das Ziel der Transsektoralen MTB-Plattform Deutschlands ist eine Möglichkeit de
 
 Die Ergebnisse dieser Diskussion werden nachfolgend als Manuskript veröffentlicht. Weiterführende Informationen finden sich unter [Idee](https://team-deutschland.org/idee/).
 
-Zur frühzeitigen Information und besseren Absprache bitten wir um kurze Mitteilung an [info@team-deutschland.org](mailto:info@team-deutschland.org?subject=Eintrag%20in%20den%20TEAM-D-Verteiler) zur Aufnahme in den E-Mailverteiler.
+Zur frühzeitigen Information und besseren Absprache bitten wir um Eintragung in den [Mailverteiler](https://forms.gle/TMvsKzPpRwC4bhME6).
+
+Für weitere Informationen stehen wir gerne zur Verfügung ([info@team-deutschland.org](mailto:info@team-deutschland.org)).
 
