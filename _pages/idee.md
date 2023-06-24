@@ -4,10 +4,8 @@ title: "Idee/Konzept"
 author_profile: true
 ---
 
-### Problem
-Bisher bereits **intensiver** deutschlandweiter Austausch über **organisatorische** Strukturen der Präzisionsonkologie (_AIO AG TF, DKH AG MTB, DNPM AG Harmonisierung, ZPM BW, BZKF, genomDE, nNGM, u.v.m_) jedoch bisher 
-* wenig **inhaltlicher** Austausch (_Ausnahme: NCT-/DKTK-MASTER MTB_)
-* wenig **Vernetzung** der „zweiten“ Ebene
+### Fragestellung
+Bisher bereits intensiver deutschlandweiter Austausch in der der Präzisionsonkologie – gibt es Interesse an eine regelmäßigen Diskussionsrunde über die Umsetzung im MTB-Alltag?
 
 ### Vorschlag
 Schaffung eines **regelmäßigen** deutschlandweiten Austauschformates, welche insbesondere “häufige“ Diskussionsthemen aus dem Alltag (_KRAS-mut. Pankreaskarzinom, Einsatz von CDK4/6- oder MTOR-Inhibitoren_) **zentral diskutiert**. Dies wurde bereits im Molekularen Tumorboard des Bayerisches Zentrum für Krebsforschung [pilotiert](https://team-deutschland.org/files/BZKF-MTB.pdf).
