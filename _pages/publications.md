@@ -6,4 +6,4 @@ author_profile: true
 ---
 
 ## PI3K/AKT/MTOR
-Das zusammenfassende Manuskript zu den Themen der ersten beiden Meetings (07/2023 und 09/2023) wird nachfolgend kollaborativ und offen erstellt. Der aktuelle Stand lässt sich jeweils [aktuell](https://github.com/TEAM-Deutschland/Manuscript_PI3K-AKT-mTOR) abrufen.
+Das zusammenfassende Manuskript zu den Themen der ersten beiden Meetings (07/2023 und 09/2023) wird nachfolgend kollaborativ und offen erstellt. Der aktuelle Stand lässt sich jeweils [aktuell](https://github.com/TEAM-Deutschland/Manuscript_PI3K-AKT-mTOR) abrufen. 
