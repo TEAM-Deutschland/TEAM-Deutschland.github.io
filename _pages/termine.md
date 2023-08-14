@@ -24,4 +24,4 @@ Passcode: 648974
 [Zoom-Link](https://tum-conf.zoom-x.de/j/69308170830?pwd=T21ONG1tNDh2YjBoQklaZUk5SFdzdz09)  
 Meeting ID: 6693 0817 0830  
 Passcode: 921714  
-[Outlook-Kalendareintrag](https://team-deutschland.org/files/4.ics)
+[Outlook-Kalendareintrag](https://team-deutschland.org/files/4.ics)  
