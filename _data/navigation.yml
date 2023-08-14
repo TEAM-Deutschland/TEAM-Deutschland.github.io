@@ -28,7 +28,7 @@ main:
       url: /termine/
 
     - title: "Protokolle"
-      url: /Protokolle/
+      url: /protokolle/
 
     - title: "Publikationen"
       url: /publikationen/
