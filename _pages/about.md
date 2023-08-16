@@ -12,7 +12,7 @@ Das Ziel der Transsektoralen MTB-Plattform Deutschlands ist eine Möglichkeit de
 
 Die Ergebnisse dieser Diskussion werden nachfolgend als Manuskript veröffentlicht. Weiterführende Informationen finden sich unter [Idee](https://team-deutschland.org/idee/).
 
-Seit Juni 2023 ist TEAM-D in der AIO-Arbeitsgruppe "Molekulare und Translationale Onkologie" angesiedelt und als AIO-Studie ([AIO-TF-0323](https://www.aio-portal.de/studie/199--team-d.html))akkreditiert.
+Seit Juni 2023 ist TEAM-D in der AIO-Arbeitsgruppe *Molekulare und Translationale Onkologie* angesiedelt und als AIO-Studie ([AIO-TF-0323](https://www.aio-portal.de/studie/199--team-d.html))akkreditiert.
 
 Zur frühzeitigen Information und besseren Absprache bitten wir um Eintragung in den [Mailverteiler](https://forms.gle/TMvsKzPpRwC4bhME6).
 
