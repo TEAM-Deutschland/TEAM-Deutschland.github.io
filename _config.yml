@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Transsektorale<br>MTB-Plattform<br>Deutschland<br>- AIO-TF-0323 -"
+  name             : "Transsektorale<br>MTB-Plattform<br>Deutschland"
   avatar           : "profile.jpeg"
-  bio              : "Austauschplattform für wiederkehrende Fragestellungen in deutschen Molekularen Tumorboards"
+  bio              : "AIO-TF-0323<br><br>Austauschplattform für wiederkehrende Fragestellungen in deutschen Molekularen Tumorboards"
   location         : "Germany"
   employer         :
   pubmed           : 
