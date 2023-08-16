@@ -15,13 +15,13 @@ Passcode: 659300
 [Outlook-Kalendareintrag](https://team-deutschland.org/files/2.ics)
 
 ## BRCA1/2 (Dienstag, 17.10.2023 15 Uhr)  
-Zoom-Link folgt!
-Meeting ID: 634 5127 4213  
-Passcode: 648974  
+Zoom-Link folgt!  
+Meeting ID:  
+Passcode:  
 [Outlook-Kalendareintrag](https://team-deutschland.org/files/3.ics)
 
 ## Non-BRCA HRD (Dienstag, 05.12.2023 15 Uhr)  
-Zoom-Link folgt!
-Meeting ID: 6693 0817 0830  
-Passcode: 921714  
+Zoom-Link folgt!  
+Meeting ID:  
+Passcode:  
 [Outlook-Kalendareintrag](https://team-deutschland.org/files/4.ics)  
