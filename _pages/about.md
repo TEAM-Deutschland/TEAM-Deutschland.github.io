@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Transsektorale MTB-Plattform Deutschland<br></b><i>TEAM-D/AIO-TF-0323</i>"
+title: "Transsektorale MTB-Plattform Deutschland<br><i>TEAM-D/AIO-TF-0323</i>"
 excerpt: "About"
 author_profile: true
 redirect_from: 
