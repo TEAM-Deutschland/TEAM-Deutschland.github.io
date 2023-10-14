@@ -16,6 +16,8 @@ Seit Juni 2023 ist TEAM-D in der AIO-Arbeitsgruppe *Molekulare und Translational
 
 Das Protokoll der ersten Sitzung zum Thema PIK3CA ist ab sofort [abrufbar](https://team-deutschland.org/files/1-Protokoll-PIK3CA.pdf).
 
+Die nächste Sitzung findet am Dienstag, 17.10.2023 um 15 Uhr statt ([Terminübersicht](https://team-deutschland.org/termine/)).
+
 Zur frühzeitigen Information und besseren Absprache bitten wir um Eintragung in den [Mailverteiler](https://forms.gle/TMvsKzPpRwC4bhME6).
 
 Für weitere Informationen stehen wir gerne zur Verfügung ([info@team-deutschland.org](mailto:info@team-deutschland.org)).

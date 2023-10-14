@@ -23,24 +23,28 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 TRANSP:OPAQUE
-DTEND;TZID=Europe/Berlin:20240123T163000
-UID:7D085365-74B4-448E-BD0C-2993F26828D4
-DTSTAMP:20231014T054837Z
-X-APPLE-CREATOR-IDENTITY:com.apple.calendar
+DTEND;TZID=Europe/Berlin:20240130T163000
 TZID:Europe/Berlin
-DESCRIPTION:Liebe Kolleginnen und Kollegen\,\n\ndie tagesaktuellen Zugan
- gsdaten bitte unter https://team-deutschland.org/termine/ abrufen.\n\nHe
- rzliche Grüße\,\nAlexander Desuki\, Ina Pretzell und Sebastian Lange für
-  TEAM-D\n
-SEQUENCE:0
+UID:20231014T054723Z-66365399987@fe80:0:0:0:bc:24ff:fe50:365eens5
+DTSTART;TZID=Europe/Berlin:20240130T150000
+LAST-MODIFIED:20231014T055455Z
+DTSTAMP:20231014T055543Z
+LOCATION:https://tum-conf.zoom-x.de/j/66365399987?pwd=VjZJalY3ekRJdmdxUG
+ hOcU1pSWk1dz09
 SUMMARY:5. TEAM-D Plattformtreffen (NF1/2 und MEK1/2)
-DTSTART;TZID=Europe/Berlin:20240123T150000
-LAST-MODIFIED:20231014T054432Z
-CREATED:20231014T054432Z
-X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
+SEQUENCE:1
+DESCRIPTION:Sebastian Lange is inviting you to a scheduled Zoom meeting.
+ \n\nJoin Zoom Meeting\nhttps://tum-conf.zoom-x.de/j/66365399987?pwd=VjZJ
+ alY3ekRJdmdxUGhOcU1pSWk1dz09\n\nMeeting ID: 663 6539 9987\nPasscode: 703
+ 398\n\n---\n\nOne tap mobile\n+496938980596\,\,66365399987#\,\,\,\,*7033
+ 98# Germany\n\n---\n\nDial by your location\n• +49 69 389 805 96 Germany
+ \n\nMeeting ID: 663 6539 9987\nPasscode: 703398\n\nFind your local numbe
+ r: https://tum-conf.zoom-x.de/u/cK2c4ug3B\n\n---\n\nJoin by SIP\n• 66365
+ 399987@lej.zmeu.us\n\n---\n\nJoin by H.323\n• 64.224.35.50 (Germany)\n\n
+ Meeting ID: 663 6539 9987\nPasscode: 703398\n\n
 BEGIN:VALARM
-UID:9849F724-7EFF-464D-AA5F-F5EE37BE62BD
-X-WR-ALARMUID:9849F724-7EFF-464D-AA5F-F5EE37BE62BD
+UID:EB172ED3-A936-43AC-B7C4-A84FFE04B161
+X-WR-ALARMUID:EB172ED3-A936-43AC-B7C4-A84FFE04B161
 TRIGGER:-PT10M
 DESCRIPTION:Reminder
 ACTION:DISPLAY
