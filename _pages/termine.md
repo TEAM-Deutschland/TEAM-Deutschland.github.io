@@ -8,8 +8,8 @@ author_profile: true
 ### PIK3CA (Mittwoch, 05.07.2023 15 Uhr)
 **[Protokoll](https://team-deutschland.org/files/1-Protokoll-PIK3CA.pdf)**
 
-### AKT/MTOR/PTEN (Mittwoch, 06.09.2023 15 Uhr)
-**[Protokoll folgt!](https://team-deutschland.org/files/2-Protokoll-PTEN-AKT-mTOR.pdf)**
+### PTEN/AKT/mTOR (Mittwoch, 06.09.2023 15 Uhr)
+**[Protokoll](https://team-deutschland.org/files/2-Protokoll-PTEN-AKT-mTOR.pdf)**
 
 ### BRCA1/2 (Dienstag, 17.10.2023 15 Uhr)
 [Zoom-Link](https://tum-conf.zoom-x.de/j/63451274213?pwd=MURZUE8wVzBKNmQwNzlvbGJEOC9vZz09)  

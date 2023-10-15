@@ -14,7 +14,7 @@ Die Ergebnisse dieser Diskussion werden nachfolgend als Manuskript veröffentlic
 
 Seit Juni 2023 ist TEAM-D in der AIO-Arbeitsgruppe *Molekulare und Translationale Onkologie* angesiedelt und als AIO-Studie ([AIO-TF-0323](https://www.aio-portal.de/studie/199--team-d.html)) akkreditiert.
 
-Das Protokoll der ersten Sitzung zum Thema PIK3CA ist ab sofort [abrufbar](https://team-deutschland.org/files/1-Protokoll-PIK3CA.pdf).
+Die Protokolle der ersten beiden Sitzungen zu den Themen [PIK3CA](https://team-deutschland.org/files/1-Protokoll-PIK3CA.pdf) (05.07.2023) und [PTEN-AKT-mTOR](https://team-deutschland.org/files/2-Protokoll-PTEN-AKT-mTOR.pdf) (06.09.2023) sind abrufbar.
 
 Die nächste Sitzung findet am Dienstag, 17.10.2023 um 15 Uhr statt ([Terminübersicht](https://team-deutschland.org/termine/)).
 
