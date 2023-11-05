@@ -31,10 +31,17 @@ DTEND;TZID=Europe/Berlin:20231205T163000
 SUMMARY:4. TEAM-D Plattformtreffen (Non-BRCA HRD)
 UID:20230814T084156Z-69308170830@fe80:0:0:0:44b:2fff:fe1f:17a2ens5
 TZID:Europe/Berlin
-DESCRIPTION:Liebe Kolleginnen und Kollegen,\n\ndie tagesaktuellen
-  Zugangsdaten bitte unter https://team-deutschland.org/termine/
-  abrufen.\n\nHerzliche Grüße\,\nAlexander Desuki\, Ina Pretzell
-  und Sebastian Lange für TEAM-D\n
+DESCRIPTION:Sebastian Lange is inviting you to a scheduled Zoom meeting.\
+ n\nJoin Zoom Meeting\nhttps://tum-conf.zoom-x.de/j/69308170830?pwd=T21ON
+ G1tNDh2YjBoQklaZUk5SFdzdz09\n\nMeeting ID: 693 0817 0830\nPasscode: 9217
+ 14\n\n---\n\nOne tap mobile\n+496938980596\,\,69308170830#\,\,\,\,*92171
+ 4# Germany\n\n---\n\nDial by your location\n• +49 69 389 805 96 Germany\
+ n\nMeeting ID: 693 0817 0830\nPasscode: 921714\n\nFind your local number
+ : https://tum-conf.zoom-x.de/u/ceJiAFpnh8\n\n---\n\nJoin by SIP\n• 69308
+ 170830@lej.zmeu.us\n\n---\n\nJoin by H.323\n• 64.224.35.50 (Germany)\n\n
+ Meeting ID: 693 0817 0830\nPasscode: 921714\n\n
+LOCATION:https://tum-conf.zoom-x.de/j/69308170830?pwd=T21ONG1tNDh2YjBoQkl
+ aZUk5SFdzdz09
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY

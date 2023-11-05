@@ -18,7 +18,9 @@ Passcode: 648974
 [Outlook-Kalendareintrag](https://team-deutschland.org/files/3.ics)
 
 ### Non-BRCA HRD (Dienstag, 05.12.2023 15 Uhr)
-Zoom-Link folgt!  
+[Zoom-Link](https://tum-conf.zoom-x.de/j/69308170830?pwd=T21ONG1tNDh2YjBoQklaZUk5SFdzdz09)  
+Meeting ID: 693 0817 0830  
+Passcode: 921714  
 [Outlook-Kalendareintrag](https://team-deutschland.org/files/4.ics)  
 
 ### NF1/2 und MEK1/2 (Dienstag, 30.01.2024 15 Uhr)
