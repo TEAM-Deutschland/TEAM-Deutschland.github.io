@@ -12,10 +12,7 @@ author_profile: true
 **[Protokoll](https://team-deutschland.org/files/2-Protokoll-PTEN-AKT-mTOR.pdf)**
 
 ### BRCA1/2 (Dienstag, 17.10.2023 15 Uhr)
-[Zoom-Link](https://tum-conf.zoom-x.de/j/63451274213?pwd=MURZUE8wVzBKNmQwNzlvbGJEOC9vZz09)  
-Meeting ID: 634 5127 4213  
-Passcode: 648974  
-[Outlook-Kalendareintrag](https://team-deutschland.org/files/3.ics)
+**Protokoll in Bearbeitung**
 
 ### Non-BRCA HRD (Dienstag, 05.12.2023 15 Uhr)
 [Zoom-Link](https://tum-conf.zoom-x.de/j/69308170830?pwd=T21ONG1tNDh2YjBoQklaZUk5SFdzdz09)  
