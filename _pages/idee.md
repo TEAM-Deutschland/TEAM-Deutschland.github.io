@@ -8,7 +8,7 @@ author_profile: true
 Bisher bereits intensiver deutschlandweiter Austausch in der der Präzisionsonkologie – gibt es Interesse an eine regelmäßigen Diskussionsrunde über die Umsetzung im MTB-Alltag?
 
 ### Vorschlag
-Schaffung eines **regelmäßigen** deutschlandweiten Austauschformates, welche insbesondere “häufige“ Diskussionsthemen aus dem Alltag (_KRAS-mut. Pankreaskarzinom, Einsatz von CDK4/6- oder MTOR-Inhibitoren_) **zentral diskutiert**. Dies wurde bereits im Molekularen Tumorboard des Bayerisches Zentrum für Krebsforschung [pilotiert](https://team-deutschland.org/files/BZKF-MTB.pdf).
+Schaffung eines **regelmäßigen** deutschlandweiten Austauschformates, welche insbesondere “häufige“ Diskussionsthemen aus dem Alltag (_KRAS-mut. Pankreaskarzinom, Einsatz von CDK4/6- oder MTOR-Inhibitoren_) **zentral diskutiert**. 
 
 ### Ziel
 * Unterstützung der **Harmonisierung und Qualitätssicherung** der Präzisionsonkologie in Deutschland
