@@ -12,7 +12,7 @@ Schaffung eines **regelmäßigen** deutschlandweiten Austauschformates, welche i
 
 ### Ziel
 * Unterstützung der **Harmonisierung und Qualitätssicherung** der Präzisionsonkologie in Deutschland
-* **Außenwirkung und Sichtbarmachung** mittels publiziertem Artikel zu jedem Thema (_„How do German Molecular Tumor Boards treat PIK3CA-mutated solid tumors“_)
+* **Außenwirkung und Sichtbarmachung** mittels publiziertem Artikel zu jedem Thema
 * **Vernetzung der Arbeitsebene** der deutschen MTBs; diese auch Hauptveranwortliche im Hinblick auf Vorbereitung/Durchführung/Publikation
 * **Fortbildungsveranstaltung**, relevant auch z.B. zur ZPM-Zertifizierung (Zertifizierung über BLÄK)
 * Ggf. unterstützend in Diskussionen mit MD/GKV/PKV
