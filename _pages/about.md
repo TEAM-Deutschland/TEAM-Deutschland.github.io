@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Transsektorale MTB-Plattform Deutschland<br><i>TEAM-D/AIO-TF-0323</i>"
+title: "Transsektorale MTB-Plattform Deutschland<br><i>TEAM-D/AIO-TF/YMO-0323</i>"
 excerpt: "About"
 author_profile: true
 redirect_from: 
@@ -12,7 +12,7 @@ Das Ziel der Transsektoralen MTB-Plattform Deutschlands ist eine Möglichkeit de
 
 Die Ergebnisse dieser Diskussion werden nachfolgend als Manuskript veröffentlicht. Weiterführende Informationen finden sich unter [Idee](https://team-deutschland.org/idee/).
 
-Seit Juni 2023 ist TEAM-D in der AIO-Arbeitsgruppe *Molekulare und Translationale Onkologie* angesiedelt und als AIO-Studie ([AIO-TF-0323](https://www.aio-portal.de/studie/199--team-d.html)) akkreditiert.
+Seit Juni 2023 ist TEAM-D in der AIO-Arbeitsgruppe *Molekulare und Translationale Onkologie* angesiedelt, kooptiert seit November 2023 durch die AIO-Arbeitsgruppe *Young Medical Oncologist*, und als AIO-Studie ([AIO-TF/YMO-0323](https://www.aio-portal.de/studie/199--team-d.html)) akkreditiert.
 
 Die Protokolle der ersten beiden Sitzungen zu den Themen [PIK3CA](https://team-deutschland.org/files/1-Protokoll-PIK3CA.pdf) (05.07.2023) und [PTEN-AKT-mTOR](https://team-deutschland.org/files/2-Protokoll-PTEN-AKT-mTOR.pdf) (06.09.2023) sind abrufbar. Das Protokoll der dritten Sitzung (BRCA1/2) wird zurzeit erstellt.
 
