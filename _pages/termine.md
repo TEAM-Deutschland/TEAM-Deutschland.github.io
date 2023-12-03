@@ -21,7 +21,7 @@ Passcode: 921714
 [Outlook-Kalendareintrag](https://team-deutschland.org/files/4.ics)  
 
 ### NF1/2 und MEK1/2 (Dienstag, 30.01.2024 15 Uhr)
-Zoom-Link](https://tum-conf.zoom-x.de/j/66365399987?pwd=VjZJalY3ekRJdmdxUGhOcU1pSWk1dz09)  
+[Zoom-Link](https://tum-conf.zoom-x.de/j/66365399987?pwd=VjZJalY3ekRJdmdxUGhOcU1pSWk1dz09)  
 Meeting ID: 663 6539 9987  
 Passcode: 703398  
 [Outlook-Kalendareintrag](https://team-deutschland.org/files/5.ics)  
