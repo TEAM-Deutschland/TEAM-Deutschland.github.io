@@ -15,10 +15,7 @@ author_profile: true
 **[Protokoll](https://team-deutschland.org/files/3-Protokoll-BRCA1-2.pdf)**
 
 ### Non-BRCA HRD (Dienstag, 05.12.2023 15 Uhr)
-[Zoom-Link](https://tum-conf.zoom-x.de/j/69308170830?pwd=T21ONG1tNDh2YjBoQklaZUk5SFdzdz09)  
-Meeting ID: 693 0817 0830  
-Passcode: 921714  
-[Outlook-Kalendareintrag](https://team-deutschland.org/files/4.ics)  
+Das Protokoll wird zur Zeit erstellt. <!-- **[Protokoll](https://team-deutschland.org/files/4- .pdf)** -->
 
 ### NF1/2 und MEK1/2 (Dienstag, 30.01.2024 15 Uhr)
 [Zoom-Link](https://tum-conf.zoom-x.de/j/66365399987?pwd=VjZJalY3ekRJdmdxUGhOcU1pSWk1dz09)  

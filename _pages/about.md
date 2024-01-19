@@ -21,4 +21,3 @@ Die nächste Sitzung findet am Dienstag, 30.01.2024 um 15 Uhr statt ([Terminübe
 Zur frühzeitigen Information und besseren Absprache bitten wir um Eintragung in den [Mailverteiler](https://forms.gle/TMvsKzPpRwC4bhME6).
 
 Für weitere Informationen stehen wir gerne zur Verfügung ([info@team-deutschland.org](mailto:info@team-deutschland.org)).
-

@@ -13,3 +13,6 @@ Das Protokoll des Treffens findet sich [hier](https://team-deutschland.org/files
 
 ## 3. TEAM-D Plattformtreffen: BRCA1/2 (17.10.2023)
 Das Protokoll des Treffens findet sich [hier](https://team-deutschland.org/files/3-Protokoll-BRCA1-2.pdf) abrufbar.
+
+## 4. TEAM-D Plattformtreffen: Non-BRCA HRD (05.12.2023)
+Das Protokoll des Treffens wird zur Zeit erstellt.
