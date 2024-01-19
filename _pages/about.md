@@ -14,9 +14,9 @@ Die Ergebnisse dieser Diskussion werden nachfolgend als Manuskript veröffentlic
 
 Seit Juni 2023 ist TEAM-D in der AIO-Arbeitsgruppe *Molekulare und Translationale Onkologie* angesiedelt, kooptiert seit November 2023 durch die AIO-Arbeitsgruppe *Young Medical Oncologist*, und als AIO-Studie ([AIO-TF/YMO-0323](https://www.aio-portal.de/studie/199--team-d.html)) akkreditiert.
 
-Die Protokolle der ersten drei Sitzungen zu den Themen [PIK3CA](https://team-deutschland.org/files/1-Protokoll-PIK3CA.pdf) (05.07.2023), [PTEN-AKT-mTOR](https://team-deutschland.org/files/2-Protokoll-PTEN-AKT-mTOR.pdf) (06.09.2023) und [BRCA1/2](https://team-deutschland.org/files/3-Protokoll-BRCA1-2.pdf) (17.10.2023) sind abrufbar. <!-- Das Protokoll der vierten Sitzung (Non-BRCA HRD) wird zurzeit erstellt. -->
+Die Protokolle der ersten drei Sitzungen zu den Themen [PIK3CA](https://team-deutschland.org/files/1-Protokoll-PIK3CA.pdf) (05.07.2023), [PTEN-AKT-mTOR](https://team-deutschland.org/files/2-Protokoll-PTEN-AKT-mTOR.pdf) (06.09.2023) und [BRCA1/2](https://team-deutschland.org/files/3-Protokoll-BRCA1-2.pdf) (17.10.2023) sind abrufbar. Das Protokoll der vierten Sitzung (Non-BRCA HRD) wird zurzeit erstellt.
 
-Die nächste Sitzung findet am Dienstag, 05.12.2023 um 15 Uhr statt ([Terminübersicht](https://team-deutschland.org/termine/)).
+Die nächste Sitzung findet am Dienstag, 30.01.2024 um 15 Uhr statt ([Terminübersicht](https://team-deutschland.org/termine/)).
 
 Zur frühzeitigen Information und besseren Absprache bitten wir um Eintragung in den [Mailverteiler](https://forms.gle/TMvsKzPpRwC4bhME6).
 
