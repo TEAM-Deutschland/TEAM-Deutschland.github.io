@@ -23,7 +23,7 @@ Meeting ID: 663 6539 9987
 Passcode: 703398  
 [Outlook-Kalendareintrag](https://team-deutschland.org/files/5.ics)  
 
-### N.N. (Dienstag, 19.03.2024 15 Uhr)
+### Tumormutationslast (Dienstag, 19.03.2024 15 Uhr)
 Zoom-Link folgt!  
 [Outlook-Kalendareintrag](https://team-deutschland.org/files/6.ics)  
 
