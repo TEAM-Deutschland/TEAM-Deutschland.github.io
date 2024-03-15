@@ -29,3 +29,7 @@ Passcode: 332884
 ### N.N. (Dienstag, 07.05.2024 15 Uhr)
 Zoom-Link folgt!  
 [Outlook-Kalendareintrag](https://team-deutschland.org/files/7.ics)  
+
+### N.N. (Dienstag, 02.07.2024 15 Uhr)
+Zoom-Link folgt!  
+[Outlook-Kalendareintrag](https://team-deutschland.org/files/8.ics)  

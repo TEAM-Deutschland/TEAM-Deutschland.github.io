@@ -28,7 +28,7 @@ BEGIN:VEVENT
 DTSTAMP:20231202T231904Z
 DTSTART;TZID=Europe/Berlin:20240319T150000
 DTEND;TZID=Europe/Berlin:20240319T163000
-SUMMARY:6. TEAM-D Plattformtreffen (N.N.)
+SUMMARY:6. TEAM-D Plattformtreffen (Tumormutationslast)
 UID:20231202T231904Z-63774735385@fe80:0:0:0:bc:24ff:fe50:365eens5
 TZID:Europe/Berlin
 DESCRIPTION:Sebastian Lange is inviting you to a scheduled Zoom meeting.\
