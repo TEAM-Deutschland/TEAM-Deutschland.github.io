@@ -6,7 +6,7 @@ METHOD:PUBLISH
 CLASS:PUBLIC
 BEGIN:VTIMEZONE
 TZID:Europe/Berlin
-LAST-MODIFIED:20231222T233358Z
+LAST-MODIFIED:20230911T053111Z
 TZURL:https://www.tzurl.org/zoneinfo-outlook/Europe/Berlin
 X-LIC-LOCATION:Europe/Berlin
 BEGIN:DAYLIGHT
@@ -25,17 +25,23 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240129T131833Z
+DTSTAMP:20231202T231904Z
 DTSTART;TZID=Europe/Berlin:20240319T150000
 DTEND;TZID=Europe/Berlin:20240319T163000
-SUMMARY:6. TEAM-D Plattformtreffen (Tumormutationslast)
-UID:20240129T131833Z-63774735385@fe80:0:0:0:472:c4ff:fe3e:b208ens5
+SUMMARY:6. TEAM-D Plattformtreffen (N.N.)
+UID:20231202T231904Z-63774735385@fe80:0:0:0:bc:24ff:fe50:365eens5
 TZID:Europe/Berlin
-DESCRIPTION:Liebe Kolleginnen und Kollegen\,\n\ndie tagesaktuellen Zugan
- gsdaten bitte unter https://team-deutschland.org/termine/ abrufen.\n\nHe
- rzliche Grüße\,\nAlexander Desuki\, Ina Pretzell und Sebastian Lange für
-  TEAM-D\n
-LOCATION:folgt
+DESCRIPTION:Sebastian Lange is inviting you to a scheduled Zoom meeting.\
+ n\nJoin Zoom Meeting\nhttps://tum-conf.zoom-x.de/j/63774735385?pwd=aFQ0S
+ 1g5M3o5QkRHcnNJVHhjeElJZz09\n\nMeeting ID: 637 7473 5385\nPasscode: 3328
+ 84\n\n---\n\nOne tap mobile\n+496938980596\,\,63774735385#\,\,\,\,*33288
+ 4# Germany\n\n---\n\nDial by your location\n• +49 69 389 805 96 Germany\
+ n\nMeeting ID: 637 7473 5385\nPasscode: 332884\n\nFind your local number
+ : https://tum-conf.zoom-x.de/u/cz5dkUSso\n\n---\n\nJoin by SIP\n• 637747
+ 35385@lej.zmeu.us\n\n---\n\nJoin by H.323\n• 64.224.35.50 (Germany)\n\nM
+ eeting ID: 637 7473 5385\nPasscode: 332884\n\n
+LOCATION:https://tum-conf.zoom-x.de/j/63774735385?pwd=aFQ0S1g5M3o5QkRHcnN
+ JVHhjeElJZz09
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
