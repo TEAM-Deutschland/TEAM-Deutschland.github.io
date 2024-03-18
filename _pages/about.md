@@ -14,7 +14,7 @@ Die Ergebnisse dieser Diskussion werden nachfolgend als Manuskript veröffentlic
 
 Seit Juni 2023 ist TEAM-D in der AIO-Arbeitsgruppe *Molekulare und Translationale Onkologie* angesiedelt, kooptiert seit November 2023 durch die AIO-Arbeitsgruppe *Young Medical Oncologist*, und als AIO-Studie ([AIO-TF/YMO-0323](https://www.aio-portal.de/studie/199--team-d.html)) akkreditiert.
 
-Die Protokolle der ersten vier Sitzungen zu den Themen [PIK3CA](https://team-deutschland.org/files/1-Protokoll-PIK3CA.pdf) (05.07.2023), [PTEN-AKT-mTOR](https://team-deutschland.org/files/2-Protokoll-PTEN-AKT-mTOR.pdf) (06.09.2023), [BRCA1/2](https://team-deutschland.org/files/3-Protokoll-BRCA1-2.pdf) (17.10.2023) und [Non-BRCA HRD](https://team-deutschland.org/files/4-Protokoll-Non-BRCA-HRD.pdf) (05.12.2023) sind abrufbar. Das Protokoll zum Thema *NF1/2 und MEK1/2* (30.01.2024) wird zur Zeit erstellt.
+Die Protokolle der ersten vier Sitzungen zu den Themen [PIK3CA](https://team-deutschland.org/files/1-Protokoll-PIK3CA.pdf) (05.07.2023), [PTEN-AKT-mTOR](https://team-deutschland.org/files/2-Protokoll-PTEN-AKT-mTOR.pdf) (06.09.2023), [BRCA1/2](https://team-deutschland.org/files/3-Protokoll-BRCA1-2.pdf) (17.10.2023), [Non-BRCA HRD](https://team-deutschland.org/files/4-Protokoll-Non-BRCA-HRD.pdf) (05.12.2023) und [NF1/2 & MEK1/2](https://team-deutschland.org/files/5-Protokoll-NF-MEK.pdf) (30.01.2024) sind abrufbar. 
 
 Die nächste Sitzung, zum Thema *Tumormutationslast* findet am Dienstag, 19.03.2024 um 15 Uhr statt, die nachfolgenden Sitzungen sind auch bereits terminiert ([Terminübersicht](https://team-deutschland.org/termine/)).
 
