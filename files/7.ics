@@ -28,14 +28,20 @@ BEGIN:VEVENT
 DTSTAMP:20240128T083947Z
 DTSTART;TZID=Europe/Berlin:20240507T150000
 DTEND;TZID=Europe/Berlin:20240507T163000
-SUMMARY:7. TEAM-D Plattformtreffen (N.N.)
+SUMMARY:7. TEAM-D Plattformtreffen (KEAP1)
 UID:20240128T083947Z-64116669047@fe80:0:0:0:838:eeff:fe86:2e7cens5
 TZID:Europe/Berlin
-DESCRIPTION:Liebe Kolleginnen und Kollegen\,\n\ndie tagesaktuellen Zugan
- gsdaten bitte unter https://team-deutschland.org/termine/ abrufen.\n\nHe
- rzliche Grüße\,\nAlexander Desuki\, Ina Pretzell und Sebastian Lange für
-  TEAM-D\n
-LOCATION:folgt
+DESCRIPTION:Sebastian Lange is inviting you to a scheduled Zoom meeting.\
+ n\nJoin Zoom Meeting\nhttps://tum-conf.zoom-x.de/j/64116669047?pwd=MU5DM
+ 21sYVFYS0h5NURXVlI5c3FhUT09\n\nMeeting ID: 641 1666 9047\nPasscode: 3377
+ 41\n\n---\n\nOne tap mobile\n+496938980596\,\,64116669047#\,\,\,\,*33774
+ 1# Germany\n\n---\n\nDial by your location\n• +49 69 389 805 96 Germany\
+ n\nMeeting ID: 641 1666 9047\nPasscode: 337741\n\nFind your local number
+ : https://tum-conf.zoom-x.de/u/ciRbouAP7\n\n---\n\nJoin by SIP\n• 641166
+ 69047@lej.zmeu.us\n\n---\n\nJoin by H.323\n• 64.224.35.50 (Germany)\n\nM
+ eeting ID: 641 1666 9047\nPasscode: 337741\n\n
+LOCATION:https://tum-conf.zoom-x.de/j/64116669047?pwd=MU5DM21sYVFYS0h5NUR
+ XVlI5c3FhUT09
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
