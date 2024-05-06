@@ -25,8 +25,8 @@ author_profile: true
 
 ### KEAP1 (Dienstag, 07.05.2024 15 Uhr)
 [Zoom-Link](https://tum-conf.zoom-x.de/j/64116669047?pwd=MU5DM21sYVFYS0h5NURXVlI5c3FhUT09)  
-Meeting ID: 641 1666 9047 
-Passcode: 337741  
+Meeting ID: *641 1666 9047*  
+Passcode: *337741*  
 [Outlook-Kalendareintrag](https://team-deutschland.org/files/7.ics)  
 
 ### N.N. (Dienstag, 02.07.2024 15 Uhr)
