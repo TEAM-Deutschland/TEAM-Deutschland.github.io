@@ -31,11 +31,17 @@ DTEND;TZID=Europe/Berlin:20240702T163000
 SUMMARY:8. TEAM-D Plattformtreffen (N.N.)
 UID:20240315T121957Z-63754554970@fe80:0:0:0:84ed:3ff:fea5:a8c7eth0
 TZID:Europe/Berlin
-DESCRIPTION:Liebe Kolleginnen und Kollegen\,\n\ndie tagesaktuellen Zugan
- gsdaten bitte unter https://team-deutschland.org/termine/ abrufen.\n\nHe
- rzliche Grüße\,\nAlexander Desuki\, Ina Pretzell und Sebastian Lange für
-  TEAM-D\n
-LOCATION:folgt
+DESCRIPTION:Sebastian Lange is inviting you to a scheduled Zoom meeting.\
+ n\nJoin Zoom Meeting\nhttps://tum-conf.zoom-x.de/j/63754554970?pwd=T0w5U
+ zFwbWxTUWtFTjRQZjlFU3ZMUT09\n\nMeeting ID: 637 5455 4970\nPasscode: 4023
+ 24\n\n---\n\nOne tap mobile\n+496938980596\,\,63754554970#\,\,\,\,*40232
+ 4# Germany\n\n---\n\nDial by your location\n• +49 69 389 805 96 Germany\
+ n\nMeeting ID: 637 5455 4970\nPasscode: 402324\n\nFind your local number
+ : https://tum-conf.zoom-x.de/u/cdOL4ElNr3\n\n---\n\nJoin by SIP\n• 63754
+ 554970@lej.zmeu.us\n\n---\n\nJoin by H.323\n• 64.224.35.50 (Germany)\n\n
+ Meeting ID: 637 5455 4970\nPasscode: 402324\n\n
+LOCATION:https://tum-conf.zoom-x.de/j/63754554970?pwd=T0w5UzFwbWxTUWtFTjR
+ QZjlFU3ZMUT09
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY

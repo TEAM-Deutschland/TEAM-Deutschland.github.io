@@ -31,17 +31,11 @@ DTEND;TZID=Europe/Berlin:20240903T163000
 SUMMARY:9. TEAM-D Plattformtreffen (N.N.)
 UID:20240504T071813Z-68307422749@fe80:0:0:0:20f7:38ff:fe1b:a6a6eth0
 TZID:Europe/Berlin
-DESCRIPTION:Sebastian Lange is inviting you to a scheduled Zoom meeting.\
- n\nJoin Zoom Meeting\nhttps://tum-conf.zoom-x.de/j/68307422749?pwd=K1AyR
- TRnWkx2bDMyRC9XZGpUSEZ1QT09\n\nMeeting ID: 683 0742 2749\nPasscode: 0210
- 47\n\n---\n\nOne tap mobile\n+496938980596\,\,68307422749#\,\,\,\,*02104
- 7# Germany\n\n---\n\nDial by your location\n• +49 69 389 805 96 Germany\
- n\nMeeting ID: 683 0742 2749\nPasscode: 021047\n\nFind your local number
- : https://tum-conf.zoom-x.de/u/cb5UW0FnNt\n\n---\n\nJoin by SIP\n• 68307
- 422749@lej.zmeu.us\n\n---\n\nJoin by H.323\n• 64.224.35.50 (Germany)\n\n
- Meeting ID: 683 0742 2749\nPasscode: 021047\n\n
-LOCATION:https://tum-conf.zoom-x.de/j/68307422749?pwd=K1AyRTRnWkx2bDMyRC9
- XZGpUSEZ1QT09
+DESCRIPTION:Liebe Kolleginnen und Kollegen\,\n\ndie tagesaktuellen Zugan
+ gsdaten bitte unter https://team-deutschland.org/termine/ abrufen.\n\nHe
+ rzliche Grüße\,\nAlexander Desuki\, Ina Pretzell und Sebastian Lange für
+  TEAM-D\n
+LOCATION:folgt
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY
