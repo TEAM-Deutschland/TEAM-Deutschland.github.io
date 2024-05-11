@@ -24,13 +24,12 @@ author_profile: true
 [Protokoll](https://team-deutschland.org/files/5-Protokoll-Tumormutationslast.pdf)
 
 ### KEAP1 (Dienstag, 07.05.2024 15 Uhr)
-[Zoom-Link](https://tum-conf.zoom-x.de/j/64116669047?pwd=MU5DM21sYVFYS0h5NURXVlI5c3FhUT09)  
-Meeting ID: *641 1666 9047*  
-Passcode: *337741*  
-[Outlook-Kalendareintrag](https://team-deutschland.org/files/7.ics)  
+Das Protokoll des Treffens wird zur Zeit erstellt.
 
 ### N.N. (Dienstag, 02.07.2024 15 Uhr)
-Zoom-Link folgt!  
+[Zoom-Link](https://tum-conf.zoom-x.de/j/63754554970?pwd=T0w5UzFwbWxTUWtFTjRQZjlFU3ZMUT09)  
+Meeting ID: *637 5455 4970*  
+Passcode: *402324*  
 [Outlook-Kalendareintrag](https://team-deutschland.org/files/8.ics)  
 
 ### N.N. (Dienstag, 03.09.2024 15 Uhr)
