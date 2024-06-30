@@ -24,4 +24,7 @@ Das Protokoll des Treffens findet sich [hier](https://team-deutschland.org/files
 Das Protokoll des Treffens findet sich [hier](https://team-deutschland.org/files/6-Protokoll-Tumormutationslast.pdf) abrufbar.
 
 ## 7. TEAM-D Plattformtreffen: KEAP1 (07.05.2024)
+Das Protokoll des Treffens findet sich [hier](https://team-deutschland.org/files/7-Protokoll-KEAP1.pdf) abrufbar.
+
+## 8. TEAM-D Plattformtreffen: Indikation zur Rebiopsie (02.07.2024)
 Das Protokoll des Treffens wird zur Zeit erstellt.
