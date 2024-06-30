@@ -28,7 +28,7 @@ BEGIN:VEVENT
 DTSTAMP:20240315T121957Z
 DTSTART;TZID=Europe/Berlin:20240702T150000
 DTEND;TZID=Europe/Berlin:20240702T163000
-SUMMARY:8. TEAM-D Plattformtreffen (N.N.)
+SUMMARY:8. TEAM-D Plattformtreffen (Indikation zur Rebiopsie I)
 UID:20240315T121957Z-63754554970@fe80:0:0:0:84ed:3ff:fea5:a8c7eth0
 TZID:Europe/Berlin
 DESCRIPTION:Sebastian Lange is inviting you to a scheduled Zoom meeting.\
