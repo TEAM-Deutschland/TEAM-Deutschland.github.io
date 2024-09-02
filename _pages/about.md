@@ -18,7 +18,7 @@ Die Protokolle der ersten sechs Sitzungen zu den Themen [PIK3CA](https://team-de
 
 Die nächste Sitzungen zum Thema *Indikation zur Rebiopsie zur Sequenzierung* findet am Dienstag, 03.09.2024 um 15 Uhr statt ([Terminübersicht](https://team-deutschland.org/termine/)).
 
-Die nachfolgenden beiden Sitzungen zum Thema FGFR1-4 werden zeitnah terminiert (für Oktober/November 2024).
+Die nachfolgenden beiden Sitzungen zum Thema FGFR1-4 werden zeitnah terminiert (für November/Dezember 2024).
 
 Zur frühzeitigen Information und besseren Absprache bitten wir um Eintragung in den [Mailverteiler](https://forms.gle/TMvsKzPpRwC4bhME6).
 
