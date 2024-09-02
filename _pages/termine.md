@@ -27,13 +27,16 @@ author_profile: true
 [Protokoll](https://team-deutschland.org/files/7-Protokoll-KEAP1.pdf)
 
 ### Indikation zur Rebiopsie I (Dienstag, 02.07.2024 15 Uhr)  
-[Zoom-Link](https://tum-conf.zoom-x.de/j/63754554970?pwd=T0w5UzFwbWxTUWtFTjRQZjlFU3ZMUT09)  
-Meeting ID: *637 5455 4970*  
-Passcode: *402324*  
-[Outlook-Kalendareintrag](https://team-deutschland.org/files/8.ics)  
+*Das Protokoll des Treffens wird zur Zeit erstellt.*
 
 ### Indikation zur Rebiopsie II (Dienstag, 03.09.2024 15 Uhr)  
 [Zoom-Link](https://tum-conf.zoom-x.de/j/68307422749?pwd=K1AyRTRnWkx2bDMyRC9XZGpUSEZ1QT09)  
 Meeting ID: *683 0742 2749*  
 Passcode: *021047*  
 [Outlook-Kalendareintrag](https://team-deutschland.org/files/9.ics)  
+
+### FGFR1-4 I (Termin wird noch festgelegt 15 Uhr)  
+*Zoom-Link und Kalendareintrag folgt*
+
+### FGFR1-4 II (Termin wird noch festgelegt 15 Uhr)  
+*Zoom-Link und Kalendareintrag folgt*

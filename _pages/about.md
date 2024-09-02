@@ -16,7 +16,7 @@ Seit Juni 2023 ist TEAM-D in der AIO-Arbeitsgruppe *Molekulare und Translational
 
 Die Protokolle der ersten sechs Sitzungen zu den Themen [PIK3CA](https://team-deutschland.org/files/1-Protokoll-PIK3CA.pdf) (05.07.2023), [PTEN-AKT-mTOR](https://team-deutschland.org/files/2-Protokoll-PTEN-AKT-mTOR.pdf) (06.09.2023), [BRCA1/2](https://team-deutschland.org/files/3-Protokoll-BRCA1-2.pdf) (17.10.2023), [Non-BRCA HRD](https://team-deutschland.org/files/4-Protokoll-Non-BRCA-HRD.pdf) (05.12.2023), [NF1/2 & MEK1/2](https://team-deutschland.org/files/5-Protokoll-NF-MEK.pdf) (30.01.2024), [Tumormutationslast](https://team-deutschland.org/files/6-Protokoll-Tumormutationslast.pdf) (19.03.2024) sowie [KEAP1](https://team-deutschland.org/files/7-Protokoll-KEAP1.pdf) (07.05.2024) sind abrufbar. 
 
-Die nächste Sitzungen zum Thema *Indikation zur Rebiopsie zur Sequenzierung* finden am Dienstag, 02.07.2024 um 15 Uhr sowie am Dienstag, 03.09.2024 um 15 Uhr statt. Die nachfolgenden Sitzungen sind auch bereits terminiert ([Terminübersicht](https://team-deutschland.org/termine/)).
+Die nächste Sitzungen zum Thema *Indikation zur Rebiopsie zur Sequenzierung* findet am Dienstag, 03.09.2024 um 15 Uhr statt. Die nachfolgenden beiden Sitzungen zum Thema FGFR1-4 werden zeitnah terminiert (für Oktober/November 2024) ([Terminübersicht](https://team-deutschland.org/termine/)).
 
 Zur frühzeitigen Information und besseren Absprache bitten wir um Eintragung in den [Mailverteiler](https://forms.gle/TMvsKzPpRwC4bhME6).
 
