@@ -35,8 +35,14 @@ Meeting ID: *683 0742 2749*
 Passcode: *021047*  
 [Outlook-Kalendareintrag](https://team-deutschland.org/files/9.ics)  
 
-### FGFR1-4 I (Termin wird noch festgelegt 15 Uhr)  
-*Zoom-Link und Kalendareintrag folgt*
+### FGFR1-4 I (Dienstag, 19.11.2024 15 Uhr)  
+[Zoom-Link](https://tum-conf.zoom-x.de/j/65389537067?pwd=UEVkmTsJbomYY0Va3RyxhPvKgH9Cdb.1)  
+Meeting ID: *653 8953 7067*  
+Passcode: *174790*  
+[Outlook-Kalendareintrag](https://team-deutschland.org/files/10.ics)  
 
-### FGFR1-4 II (Termin wird noch festgelegt 15 Uhr)  
-*Zoom-Link und Kalendareintrag folgt*
+### FGFR1-4 II (Dienstag, 10.12.2024 15 Uhr)  
+[Zoom-Link](https://tum-conf.zoom-x.de/j/64900217037?pwd=KyFExIlcBhfY32UV3IWnt76sFf6MNh.1)  
+Meeting ID: *649 0021 7037*  
+Passcode: *544883*  
+[Outlook-Kalendareintrag](https://team-deutschland.org/files/11.ics)  

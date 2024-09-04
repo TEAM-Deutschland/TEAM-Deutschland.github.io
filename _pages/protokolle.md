@@ -28,3 +28,6 @@ Das Protokoll des Treffens findet sich [hier](https://team-deutschland.org/files
 
 ## 8. TEAM-D Plattformtreffen: Indikation zur Rebiopsie (02.07.2024)
 Das Protokoll des Treffens wird zur Zeit erstellt.
+
+## 9. TEAM-D Plattformtreffen: Indikation zur Rebiopsie (03.09.2024)
+Das Protokoll des Treffens wird zur Zeit erstellt.
