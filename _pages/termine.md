@@ -30,10 +30,7 @@ author_profile: true
 *Das Protokoll des Treffens wird zur Zeit erstellt.*
 
 ### Indikation zur Rebiopsie II (Dienstag, 03.09.2024 15 Uhr)  
-[Zoom-Link](https://tum-conf.zoom-x.de/j/68307422749?pwd=K1AyRTRnWkx2bDMyRC9XZGpUSEZ1QT09)  
-Meeting ID: *683 0742 2749*  
-Passcode: *021047*  
-[Outlook-Kalendareintrag](https://team-deutschland.org/files/9.ics)  
+*Das Protokoll des Treffens wird zur Zeit erstellt.*
 
 ### FGFR1-4 I (Dienstag, 19.11.2024 15 Uhr)  
 [Zoom-Link](https://tum-conf.zoom-x.de/j/65389537067?pwd=UEVkmTsJbomYY0Va3RyxhPvKgH9Cdb.1)  
