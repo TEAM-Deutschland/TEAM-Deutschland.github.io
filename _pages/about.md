@@ -22,7 +22,7 @@ Wir freuen uns, dass im Mai 2024 die erste im TEAM-D entstandene Publikation ver
 
 *KEAP-GRACE* ist das neueste wissenschaftliche Projekt, welches im TEAM-D enstanden ist, und sich der Rolle von *KEAP1*-Varianten in soliden Tumoren widmet. Weitere Informationen finden sich in der [AIO-Studiendatenbank](https://www.aio-portal.de/studie/222--keap-grace.html) und dem [Studienprotokoll](https://www.aio-portal.de/files/content/studien/studiendatenbank/AIO-TF-0224_s.pdf). 
 
-Die nächsten Sitzungen zum Thema *FGFR1-4* finden am Dienstag, 19.11.2024 sowie am Dienstag, 10.12.2024 um jeweils 15 Uhr statt. ([Terminübersicht](https://team-deutschland.org/termine/)).
+Die nächsten Sitzungen zum Thema *FGFR1-4* finden am Dienstag, 19.11.2024 (Fusionen) sowie am Dienstag, 10.12.2024 (Mutationen, Amplifikationen) um jeweils 15 Uhr statt. ([Terminübersicht](https://team-deutschland.org/termine/)).
 
 Zur frühzeitigen Information und besseren Absprache bitten wir um Eintragung in den [Mailverteiler](https://forms.gle/TMvsKzPpRwC4bhME6).
 
