@@ -18,7 +18,7 @@ Die Protokolle der ersten sechs Sitzungen zu den Themen [PIK3CA](https://team-de
 
 Die beiden letzten Treffen zum Thema *Indikation zur Rebiopsie vor Sequenzierung* fanden im Juli und September 2024 statt, das diesbezügliche Protokoll wird aktuell erstellt.
 
-Wir freuen uns, dass im Mai 2024 die erste im TEAM-D entstandene Publikation veröffentlicht werden konnte: *What Do German Molecular Tumor Boards Recommend in Patients with PIK3CA-Mutated Tumors? Launch and First Results from the German Transsectoral Molecular Tumor Board Exchange Platform Deutschland* ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/38714183/), [doi](https://doi.org/10.1159/000539217)).
+Wir freuen uns, dass im Mai 2024 die erste im TEAM-D entstandene Publikation veröffentlicht werden konnte: What Do German Molecular Tumor Boards Recommend in Patients with PIK3CA-Mutated Tumors? *Launch and First Results from the German Transsectoral Molecular Tumor Board Exchange Platform Deutschland* (Pretzell et al., Oncol Res Treat., [Pubmed](https://pubmed.ncbi.nlm.nih.gov/38714183/), [doi](https://doi.org/10.1159/000539217)).
 
 *KEAP-GRACE* ist das neueste wissenschaftliche Projekt, welches im TEAM-D enstanden ist, und sich der Rolle von *KEAP1*-Varianten in soliden Tumoren widmet. Weitere Informationen finden sich in der [AIO-Studiendatenbank](https://www.aio-portal.de/studie/222--keap-grace.html) und dem [Studienprotokoll](https://www.aio-portal.de/files/content/studien/studiendatenbank/AIO-TF-0224_s.pdf). 
 
