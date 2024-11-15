@@ -1,13 +1,16 @@
 ---
 layout: archive
-title: "Publikationen"
+title: "Publikationen & Projekte"
 permalink: /publikationen/
 author_profile: true
 ---
 
-## PI3KCA
-Das Manuskript befindet sich aktuell im Peer Review (Stand: 04/2024).
+## KEAP-GRACE
+**German Registry for KEAP1 Alterations in non-lung solid tumors**
+*Multizentrische, retrospektive Erhebung von Patienten-Verläufen mit KEAP1-Mutationen in soliden Tumoren mit Ausnahme von Lungenkarzinomen*
+Weitere Informationen finden sich in der [AIO-Studiendatenbank](https://www.aio-portal.de/studie/222--keap-grace.html) und dem [Studienprotokoll](https://www.aio-portal.de/files/content/studien/studiendatenbank/AIO-TF-0224_s.pdf). 
 
-## BRCA1/2 und Non-BRCA HRD
-Das Manuskript befindet sich in der Vorbereitung (Stand: 04/2024).
+## abgeschlossene Publikationen
+*What Do German Molecular Tumor Boards Recommend in Patients with PIK3CA-Mutated Tumors? Launch and First Results from the German Transsectoral Molecular Tumor Board Exchange Platform Deutschland* ([Pubmed](https://pubmed.ncbi.nlm.nih.gov/38714183/), [doi](https://doi.org/10.1159/000539217)).
+
 
