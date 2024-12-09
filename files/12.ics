@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+PRODID:-//zoom.us//iCalendar Event//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+CLASS:PUBLIC
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+LAST-MODIFIED:20240422T053451Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20241209T152515Z
+DTSTART;TZID=Europe/Berlin:20250225T150000
+DTEND;TZID=Europe/Berlin:20250225T163000
+SUMMARY:12. TEAM-D Plattformtreffen (ADCs)
+UID:20241209T152515Z-65172558497@fe80:0:0:0:640d:dcff:fef4:cd07eth0
+TZID:Europe/Berlin
+DESCRIPTION:Sebastian Lange is inviting you to a scheduled Zoom meeting.\
+ n\nJoin Zoom Meeting\nhttps://tum-conf.zoom-x.de/j/65172558497?pwd=fhbni
+ Ngl8o7HRaeqKcdWjwI8ihSAL1.1\n\nMeeting ID: 651 7255 8497\nPasscode: 7436
+ 66\n\n---\n\nOne tap mobile\n+496938980596\,\,65172558497#\,\,\,\,*74366
+ 6# Germany\n\n---\n\nDial by your location\n• +49 69 389 805 96 Germany\
+ n\nMeeting ID: 651 7255 8497\nPasscode: 743666\n\nFind your local number
+ : https://tum-conf.zoom-x.de/u/ccLwqxHnx\n\n---\n\nJoin by SIP\n• 651725
+ 58497@lej.zmeu.us\n\n---\n\nJoin by H.323\n• 64.224.35.50 (Germany)\n\nM
+ eeting ID: 651 7255 8497\nPasscode: 743666\n\n
+LOCATION:https://tum-conf.zoom-x.de/j/65172558497?pwd=fhbniNgl8o7HRaeqKcd
+ WjwI8ihSAL1.1
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

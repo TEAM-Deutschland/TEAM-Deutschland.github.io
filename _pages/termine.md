@@ -33,13 +33,16 @@ author_profile: true
 *Das Protokoll des Treffens wird zur Zeit erstellt.*
 
 ### FGFR1-4 I (Dienstag, 19.11.2024 15 Uhr)  
-[Zoom-Link](https://tum-conf.zoom-x.de/j/65389537067?pwd=UEVkmTsJbomYY0Va3RyxhPvKgH9Cdb.1)  
-Meeting ID: *653 8953 7067*  
-Passcode: *174790*  
-[Outlook-Kalendareintrag](https://team-deutschland.org/files/10.ics)  
+*Das Protokoll des Treffens wird zur Zeit erstellt.*
 
 ### FGFR1-4 II (Dienstag, 10.12.2024 15 Uhr)  
 [Zoom-Link](https://tum-conf.zoom-x.de/j/64900217037?pwd=KyFExIlcBhfY32UV3IWnt76sFf6MNh.1)  
 Meeting ID: *649 0021 7037*  
 Passcode: *544883*  
 [Outlook-Kalendareintrag](https://team-deutschland.org/files/11.ics)  
+
+### ADCs (Dienstag, 10.12.2024 15 Uhr)  
+[Zoom-Link](https://tum-conf.zoom-x.de/j/65172558497?pwd=fhbniNgl8o7HRaeqKcdWjwI8ihSAL1.1)  
+Meeting ID: *651 7255 8497*  
+Passcode: *743666*  
+[Outlook-Kalendareintrag](https://team-deutschland.org/files/12.ics)  
