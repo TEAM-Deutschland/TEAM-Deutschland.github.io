@@ -36,12 +36,9 @@ author_profile: true
 *Das Protokoll des Treffens wird zur Zeit erstellt.*
 
 ### FGFR1-4 II (Dienstag, 10.12.2024 15 Uhr)  
-[Zoom-Link](https://tum-conf.zoom-x.de/j/64900217037?pwd=KyFExIlcBhfY32UV3IWnt76sFf6MNh.1)  
-Meeting ID: *649 0021 7037*  
-Passcode: *544883*  
-[Outlook-Kalendareintrag](https://team-deutschland.org/files/11.ics)  
+*Das Protokoll des Treffens wird zur Zeit erstellt.*
 
-### ADCs (Dienstag, 10.12.2024 15 Uhr)  
+### ADCs I: TROP2 (Dienstag, 25.02.2025 15 Uhr)  
 [Zoom-Link](https://tum-conf.zoom-x.de/j/65172558497?pwd=fhbniNgl8o7HRaeqKcdWjwI8ihSAL1.1)  
 Meeting ID: *651 7255 8497*  
 Passcode: *743666*  

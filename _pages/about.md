@@ -24,7 +24,7 @@ Wir freuen uns, dass im Mai 2024 die erste im TEAM-D entstandene Publikation ver
 
 Die nächsten Sitzungen zum Thema *FGFR1-4* finden am Dienstag, 19.11.2024 (Fusionen) sowie am Dienstag, 10.12.2024 (Mutationen, Amplifikationen) um jeweils 15 Uhr statt. ([Terminübersicht](https://team-deutschland.org/termine/)).
 
-Bereits jetzt können wir auch das 12. TEAM-D-Treffen zum Thema *ADCs* für Dienstag, 25.02.2025 um 15 Uhr ankündigen. ([Terminübersicht](https://team-deutschland.org/termine/)).
+Bereits jetzt können wir auch das 12. TEAM-D-Treffen zum Thema *ADCs I: TROP2* für Dienstag, 25.02.2025 um 15 Uhr ankündigen. ([Terminübersicht](https://team-deutschland.org/termine/)).
 
 Zur frühzeitigen Information und besseren Absprache bitten wir um Eintragung in den [Mailverteiler](https://forms.gle/TMvsKzPpRwC4bhME6).
 
