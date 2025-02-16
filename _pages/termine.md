@@ -26,16 +26,10 @@ author_profile: true
 ### KEAP1 (Dienstag, 07.05.2024 15 Uhr)
 [Protokoll](https://team-deutschland.org/files/7-Protokoll-KEAP1.pdf)
 
-### Indikation zur Rebiopsie I (Dienstag, 02.07.2024 15 Uhr)  
-*Das Protokoll des Treffens wird zur Zeit erstellt.*
+### Indikation zur Rebiopsie I & II (Dienstag, 02.07.2024 15 Uhr & Dienstag, 03.09.2024 15 Uhr)  
+[Protokoll](https://team-deutschland.org/files/8-9-Protokoll-Rebiopsie.pdf)
 
-### Indikation zur Rebiopsie II (Dienstag, 03.09.2024 15 Uhr)  
-*Das Protokoll des Treffens wird zur Zeit erstellt.*
-
-### FGFR1-4 I (Dienstag, 19.11.2024 15 Uhr)  
-*Das Protokoll des Treffens wird zur Zeit erstellt.*
-
-### FGFR1-4 II (Dienstag, 10.12.2024 15 Uhr)  
+### FGFR1-4 I & II (Dienstag, 19.11.2024 15 Uhr & Dienstag, 10.12.2024 15 Uhr)  
 *Das Protokoll des Treffens wird zur Zeit erstellt.*
 
 ### ADCs I: TROP2 (Dienstag, 25.02.2025 15 Uhr)  
