@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+PRODID:-//zoom.us//iCalendar Event//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+CLASS:PUBLIC
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+LAST-MODIFIED:20250121T082933Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20250222T111931Z
+DTSTART;TZID=Europe/Berlin:20250429T150000
+DTEND;TZID=Europe/Berlin:20250429T163000
+SUMMARY:13. TEAM-D Plattformtreffen (N.N.)
+UID:20250222T111931Z-63910277758@fe80:0:0:0:68d0:1fff:fe26:94d7eth0
+TZID:Europe/Berlin
+DESCRIPTION:Sebastian Lange is inviting you to a scheduled Zoom meeting.\
+ nJoin Zoom Meeting\nhttps://tum-conf.zoom-x.de/j/63910277758?pwd=fwqeEG0
+ 3tvaPcAjCPoKbSPKn8iaAqb.1\n\nMeeting ID: 639 1027 7758\nPasscode: 530632
+ \n\n---\n\nOne tap mobile\n+496938980596\,\,63910277758#\,\,\,\,*530632#
+  Germany\n\n---\n\nDial by your location\n• +49 69 389 805 96 Germany\n\
+ nMeeting ID: 639 1027 7758\nPasscode: 530632\n\nFind your local number: 
+ https://tum-conf.zoom-x.de/u/ccP1GmK3ZH\n\n---\n\nJoin by SIP\n• 6391027
+ 7758@lej.zmeu.us\n\n---\n\nJoin by H.323\n• 64.224.35.50 (Germany)\n\nMe
+ eting ID: 639 1027 7758\nPasscode: 530632\n\n
+LOCATION:https://tum-conf.zoom-x.de/j/63910277758?pwd=fwqeEG03tvaPcAjCPoK
+ bSPKn8iaAqb.1
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
