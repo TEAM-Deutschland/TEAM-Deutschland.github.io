@@ -38,7 +38,7 @@ Meeting ID: *651 7255 8497*
 Passcode: *743666*  
 [Outlook-Kalendareintrag](https://team-deutschland.org/files/12.ics)  
 
-### N.N. (Dienstag, 29.04.2025 15 Uhr)  
+### N.N. (Dienstag, 01.04.2025 15 Uhr)  
 [Zoom-Link](https://tum-conf.zoom-x.de/j/63910277758?pwd=fwqeEG03tvaPcAjCPoKbSPKn8iaAqb.1)  
 Meeting ID: *639 1027 7758*  
 Passcode: *530632*  
