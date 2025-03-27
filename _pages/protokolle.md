@@ -26,11 +26,17 @@ Das Protokoll des Treffens findet sich [hier](https://team-deutschland.org/files
 ## 7. TEAM-D Plattformtreffen: KEAP1 (07.05.2024)
 Das Protokoll des Treffens findet sich [hier](https://team-deutschland.org/files/7-Protokoll-KEAP1.pdf) abrufbar.
 
-## 8. TEAM-D Plattformtreffen: Indikation zur Rebiopsie Teil I & II (02.07.2024 & 03.09.2024)
+## 8. & 9. TEAM-D Plattformtreffen: Indikation zur Rebiopsie Teil I & II (02.07.2024 & 03.09.2024)
 Das Protokoll des Treffens findet sich [hier](https://team-deutschland.org/files/8-9-Protokoll-Rebiopsie.pdf) abrufbar.
 
-## 10. TEAM-D Plattformtreffen: FGFR1-4 Teil I & II (9.11.2024 & 10.12.2024)  
+## 10. & 11. TEAM-D Plattformtreffen: FGFR1-4 Teil I & II (9.11.2024 & 10.12.2024)  
 Das Protokoll des Treffens wird zur Zeit erstellt.
 
-## 12. TEAM-D Plattformtreffen: ADC I: TROP2 (Dienstag, 25.02.2025 15 Uhr)  
+## 12. & 13. TEAM-D Plattformtreffen: TROP2 (25.02.2025 & 01.04.2025)  
+Siehe Termine!
+
+## 14. TEAM-D Plattformtreffen: N.N. (Dienstag, 20.05.2025 15 Uhr)  
+Siehe Termine!
+
+## 15. TEAM-D Plattformtreffen: N.N. (Dienstag, 01.07.2025 15 Uhr)  
 Siehe Termine!

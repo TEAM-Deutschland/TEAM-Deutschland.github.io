@@ -33,13 +33,22 @@ author_profile: true
 *Das Protokoll des Treffens wird zur Zeit erstellt.*
 
 ### ADCs I: TROP2 (Dienstag, 25.02.2025 15 Uhr)  
-[Zoom-Link](https://tum-conf.zoom-x.de/j/65172558497?pwd=fhbniNgl8o7HRaeqKcdWjwI8ihSAL1.1)  
-Meeting ID: *651 7255 8497*  
-Passcode: *743666*  
-[Outlook-Kalendareintrag](https://team-deutschland.org/files/12.ics)  
+*Das Protokoll des Treffens wird zur Zeit erstellt.*
 
-### N.N. (Dienstag, 01.04.2025 15 Uhr)  
+### TROP2 Teil 2 (Dienstag, 01.04.2025 15 Uhr)  
 [Zoom-Link](https://tum-conf.zoom-x.de/j/63910277758?pwd=fwqeEG03tvaPcAjCPoKbSPKn8iaAqb.1)  
 Meeting ID: *639 1027 7758*  
 Passcode: *530632*  
-[Outlook-Kalendareintrag](https://team-deutschland.org/files/13.ics)  
+[Outlook-Kalendareintrag](https://team-deutschland.org/files/13.ics) 
+
+### N.N. (Dienstag, 20.05.2025 15 Uhr)  
+[Zoom-Link](https://tum-conf.zoom-x.de/j/62710534789?pwd=fEz0w1vKVi4b3WMRit0i6qbTLrlTVw.1)  
+Meeting ID: *627 1053 4789*  
+Passcode: *602794*  
+[Outlook-Kalendareintrag](https://team-deutschland.org/files/14.ics) 
+
+### N.N. (Dienstag, 01.07.2025 15 Uhr)  
+[Zoom-Link](https://tum-conf.zoom-x.de/j/69154927273?pwd=RUsX1qOjPytkA4vXzId5aXPavvs7g8.1)  
+Meeting ID: *691 5492 7273*  
+Passcode: *474056*  
+[Outlook-Kalendareintrag](https://team-deutschland.org/files/15.ics) 
