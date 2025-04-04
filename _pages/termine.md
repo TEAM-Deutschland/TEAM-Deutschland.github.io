@@ -32,14 +32,8 @@ author_profile: true
 ### FGFR1-4 I & II (Dienstag, 19.11.2024 15 Uhr & Dienstag, 10.12.2024 15 Uhr)  
 *Das Protokoll des Treffens wird zur Zeit erstellt.*
 
-### ADCs I: TROP2 (Dienstag, 25.02.2025 15 Uhr)  
-*Das Protokoll des Treffens wird zur Zeit erstellt.*
-
-### TROP2 Teil 2 (Dienstag, 01.04.2025 15 Uhr)  
-[Zoom-Link](https://tum-conf.zoom-x.de/j/63910277758?pwd=fwqeEG03tvaPcAjCPoKbSPKn8iaAqb.1)  
-Meeting ID: *639 1027 7758*  
-Passcode: *530632*  
-[Outlook-Kalendareintrag](https://team-deutschland.org/files/13.ics) 
+### ADCs: TROP2 I & II (Dienstag, 25.02.2025 15 Uhr & Dienstag, 01.04.2025 15 Uhr)  
+*Das Protokoll der Treffen wird zur Zeit erstellt.*
 
 ### HER2 I (Expression/Amplifikation) (Dienstag, 20.05.2025 15 Uhr)  
 [Zoom-Link](https://tum-conf.zoom-x.de/j/62710534789?pwd=fEz0w1vKVi4b3WMRit0i6qbTLrlTVw.1)  
