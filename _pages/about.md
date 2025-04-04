@@ -16,7 +16,7 @@ Seit Juni 2023 ist TEAM-D in der AIO-Arbeitsgruppe *Molekulare und Translational
 
 Die Protokolle der Sitzungen zu den Themen [PIK3CA](https://team-deutschland.org/files/1-Protokoll-PIK3CA.pdf) (05.07.2023), [PTEN-AKT-mTOR](https://team-deutschland.org/files/2-Protokoll-PTEN-AKT-mTOR.pdf) (06.09.2023), [BRCA1/2](https://team-deutschland.org/files/3-Protokoll-BRCA1-2.pdf) (17.10.2023), [Non-BRCA HRD](https://team-deutschland.org/files/4-Protokoll-Non-BRCA-HRD.pdf) (05.12.2023), [NF1/2 & MEK1/2](https://team-deutschland.org/files/5-Protokoll-NF-MEK.pdf) (30.01.2024), [Tumormutationslast](https://team-deutschland.org/files/6-Protokoll-Tumormutationslast.pdf) (19.03.2024), [KEAP1](https://team-deutschland.org/files/7-Protokoll-KEAP1.pdf) (07.05.2024) sowie [Indikation zur Rebiopsie I & II](https://team-deutschland.org/files/8-9-Protokoll-Rebiopsie.pdf) (02.07.2024 & 03.09.2024) sind [abrufbar](https://team-deutschland.org/protokolle/). 
 
-Die beiden letzten Treffen zum Thema *FGFR1-4* fanden im November und Dezember 2024 statt, das diesbezügliche Protokoll wird aktuell erstellt.
+Die beiden Treffen zum Thema *FGFR1-4* fanden im November und Dezember 2024 statt und die Treffen zum Thema *TROP2* im Januar und Februar 2025, die diesbezüglichen Protokollen werden aktuell erstellt.
 
 Wir freuen uns, dass im Mai 2024 die erste im TEAM-D entstandene Publikation veröffentlicht werden konnte: What Do German Molecular Tumor Boards Recommend in Patients with PIK3CA-Mutated Tumors? *Launch and First Results from the German Transsectoral Molecular Tumor Board Exchange Platform Deutschland* (Pretzell et al., Oncol. Res. Treat. 2024; [pubmed](https://pubmed.ncbi.nlm.nih.gov/38714183/), [doi](https://doi.org/10.1159/000539217)).
 
@@ -24,6 +24,6 @@ Wir freuen uns, dass im Mai 2024 die erste im TEAM-D entstandene Publikation ver
 
 Die nächsten Sitzungen zum Thema *HER2* finden am Dienstag, 20.05.2025 um 15 Uhr (Expression/Amplifikation) sowie Dienstag, 01.07.2025 um 15 Uhr (Mutationen) statt. ([Terminübersicht](https://team-deutschland.org/termine/))
 
-Zur frühzeitigen Information und besseren Absprache bitten wir um Eintragung in den [Mailverteiler](https://forms.gle/TMvsKzPpRwC4bhME6).
+**Zur frühzeitigen Information und besseren Absprache bitten wir um Eintragung in den [Mailverteiler](https://forms.gle/TMvsKzPpRwC4bhME6).**
 
 Für weitere Informationen stehen wir gerne zur Verfügung ([info@team-deutschland.org](mailto:info@team-deutschland.org)).
