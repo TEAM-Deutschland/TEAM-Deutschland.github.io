@@ -30,7 +30,7 @@ author_profile: true
 [Protokoll](https://team-deutschland.org/files/8-9-Protokoll-Rebiopsie.pdf)
 
 ### FGFR1-4 I & II (Dienstag, 19.11.2024 15 Uhr & Dienstag, 10.12.2024 15 Uhr)  
-*Das Protokoll des Treffens wird zur Zeit erstellt.*
+*Das Protokoll der Treffen wird zur Zeit erstellt.*
 
 ### ADCs: TROP2 I & II (Dienstag, 25.02.2025 15 Uhr & Dienstag, 01.04.2025 15 Uhr)  
 *Das Protokoll der Treffen wird zur Zeit erstellt.*
