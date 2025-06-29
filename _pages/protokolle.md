@@ -35,8 +35,8 @@ Das Protokoll der Treffen wird zur Zeit erstellt.
 ## 12. & 13. TEAM-D Plattformtreffen: TROP2 Teil I & II (25.02.2025 & 01.04.2025)  
 Das Protokoll der Treffen wird zur Zeit erstellt.
 
-## 14. TEAM-D Plattformtreffen: HER2 I (Dienstag, 20.05.2025 15 Uhr)  
-Siehe [Termine](https://team-deutschland.org/termine/)! 
+## 14. & 15. TEAM-D Plattformtreffen: HER2 I & II (20.05.2025 & 01.07.2025)  
+Das Protokoll der Treffen wird zur Zeit erstellt.
 
-## 15. TEAM-D Plattformtreffen: HER2 II (Dienstag, 01.07.2025 15 Uhr)  
+## 16. TEAM-D Plattformtreffen: N.N. (Dienstag, 23.09.2025 15 Uhr)  
 Siehe [Termine](https://team-deutschland.org/termine/)! 
