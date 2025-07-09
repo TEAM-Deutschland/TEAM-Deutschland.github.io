@@ -35,16 +35,10 @@ author_profile: true
 ### ADCs: TROP2 I & II (Dienstag, 25.02.2025 15 Uhr & Dienstag, 01.04.2025 15 Uhr)  
 *Das Protokoll der Treffen wird zur Zeit erstellt.*
 
-### HER2 I (Expression/Amplifikation) (Dienstag, 20.05.2025 15 Uhr)  
+### HER2 I & II (Dienstag, 20.05.2025 15 Uhr & Dienstag, 01.07.2025 15 Uhr)  
 *Das Protokoll der Treffen wird zur Zeit erstellt.*
 
-### HER2 II (Mutationen)  (Dienstag, 01.07.2025 15 Uhr)  
-[Zoom-Link](https://tum-conf.zoom-x.de/j/69154927273?pwd=RUsX1qOjPytkA4vXzId5aXPavvs7g8.1)  
-Meeting ID: *691 5492 7273*  
-Passcode: *474056*  
-[Outlook-Kalendareintrag](https://team-deutschland.org/files/15.ics) 
-
-### N.N. (Dienstag, 01.07.2025 15 Uhr)  
+### N.N. (Dienstag, 23.09.2025 15 Uhr)  
 [Zoom-Link](https://tum-conf.zoom-x.de/j/61740724818?pwd=PrLqE1VOEHbYBXPYa8MItwvCSP9prT.1)  
 Meeting ID: *617 4072 4818*  
 Passcode: *479883*  
