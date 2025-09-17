@@ -38,8 +38,14 @@ author_profile: true
 ### HER2 I & II (Dienstag, 20.05.2025 15 Uhr & Dienstag, 01.07.2025 15 Uhr)  
 *Das Protokoll der Treffen wird zur Zeit erstellt.*
 
-### N.N. (Dienstag, 23.09.2025 15 Uhr)  
+### Mögliche Pitfalls der NCT-/DKTK-MASTER-Klassifikation (Dienstag, 23.09.2025 15 Uhr)  
 [Zoom-Link](https://tum-conf.zoom-x.de/j/61740724818?pwd=PrLqE1VOEHbYBXPYa8MItwvCSP9prT.1)  
 Meeting ID: *617 4072 4818*  
 Passcode: *479883*  
 [Outlook-Kalendareintrag](https://team-deutschland.org/files/16.ics)
+
+### N.N. (Dienstag, 04.11.2025 15 Uhr)  
+[Zoom-Link](https://tum-conf.zoom-x.de/j/65531221011?pwd=JJr9aAJX2CKv7ugiaCfWvuBdowaNYZ.1 )  
+Meeting ID: *655 3122 1011*  
+Passcode: *280696*  
+[Outlook-Kalendareintrag](https://team-deutschland.org/files/17.ics)
