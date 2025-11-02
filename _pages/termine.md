@@ -39,7 +39,7 @@ author_profile: true
 *Das Protokoll der Treffen wird zur Zeit erstellt.*
 
 ### Mögliche Pitfalls der NCT-/DKTK-MASTER-Klassifikation (Dienstag, 23.09.2025 15 Uhr)  
-*Das Protokoll ders Treffens wird zur Zeit erstellt.*
+*Das Protokoll des Treffens wird zur Zeit erstellt.*
 
 ### Höhergradige Gliome im MTB (Dienstag, 04.11.2025 15 Uhr)  
 [Zoom-Link](https://tum-conf.zoom-x.de/j/65531221011?pwd=JJr9aAJX2CKv7ugiaCfWvuBdowaNYZ.1 )  
