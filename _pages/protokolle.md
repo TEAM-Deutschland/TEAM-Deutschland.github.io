@@ -29,7 +29,7 @@ Das Protokoll des Treffens findet sich [hier](https://team-deutschland.org/files
 ## 8. & 9. TEAM-D Plattformtreffen: Indikation zur Rebiopsie Teil I & II (02.07.2024 & 03.09.2024)
 Das Protokoll des Treffens findet sich [hier](https://team-deutschland.org/files/8-9-Protokoll-Rebiopsie.pdf) abrufbar.
 
-## 10. & 11. TEAM-D Plattformtreffen: FGFR1-4 Teil I & II (9.11.2024 & 10.12.2024)  
+## 10. & 11. TEAM-D Plattformtreffen: FGFR1-4 Teil I & II (09.11.2024 & 10.12.2024)  
 Das Protokoll des Treffens findet sich [hier](https://team-deutschland.org/files/10-11-Protokoll-FGFR.pdf) abrufbar.
 
 ## 12. & 13. TEAM-D Plattformtreffen: TROP2 Teil I & II (25.02.2025 & 01.04.2025)  
