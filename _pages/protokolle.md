@@ -30,13 +30,20 @@ Das Protokoll des Treffens findet sich [hier](https://team-deutschland.org/files
 Das Protokoll des Treffens findet sich [hier](https://team-deutschland.org/files/8-9-Protokoll-Rebiopsie.pdf) abrufbar.
 
 ## 10. & 11. TEAM-D Plattformtreffen: FGFR1-4 Teil I & II (9.11.2024 & 10.12.2024)  
-Das Protokoll der Treffen wird zur Zeit erstellt.
+Das Protokoll des Treffens findet sich [hier](https://team-deutschland.org/files/10-11-Protokoll-FGFR.pdf) abrufbar.
 
 ## 12. & 13. TEAM-D Plattformtreffen: TROP2 Teil I & II (25.02.2025 & 01.04.2025)  
-Das Protokoll der Treffen wird zur Zeit erstellt.
+Das Protokoll des Treffens findet sich [hier](https://team-deutschland.org/files/12-13-Protokoll-TROP2.pdf) abrufbar.
 
 ## 14. & 15. TEAM-D Plattformtreffen: HER2 I & II (20.05.2025 & 01.07.2025)  
 Das Protokoll der Treffen wird zur Zeit erstellt.
 
-## 16. TEAM-D Plattformtreffen: N.N. (Dienstag, 23.09.2025 15 Uhr)  
+## 16. TEAM-D Plattformtreffen: Mögliche Pitfalls der NCT-/DKTK-Klassifizierung
+ (Dienstag, 23.09.2025 15 Uhr)  
+Siehe [Termine](https://team-deutschland.org/termine/)! 
+
+## 17. TEAM-D Plattformtreffen: Höhergradige Gliome (Dienstag, 04.11.2025 15 Uhr)  
+Siehe [Termine](https://team-deutschland.org/termine/)! 
+
+## 18. TEAM-D Plattformtreffen: N.N. (Dienstag, 04.11.2026 15 Uhr)  
 Siehe [Termine](https://team-deutschland.org/termine/)! 

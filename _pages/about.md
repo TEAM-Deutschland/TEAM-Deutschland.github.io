@@ -22,7 +22,7 @@ Wir freuen uns, dass im Mai 2024 die erste im TEAM-D entstandene Publikation ver
 
 *KEAP-GRACE* ist das neueste wissenschaftliche Projekt, welches im TEAM-D enstanden ist, und sich der Rolle von *KEAP1*-Varianten in soliden Tumoren widmet. Weitere Informationen finden sich in der [AIO-Studiendatenbank](https://www.aio-portal.de/studie/222--keap-grace.html) und dem [Studienprotokoll](https://www.aio-portal.de/files/content/studien/studiendatenbank/AIO-TF-0224_s.pdf). 
 
-Das nächste Treffen ist für Dienstag, 23.09.2025 um 15 Uhr angesetzt (*Thema: Mögliche Pitfalls der NCT-/DKTK-MASTER-Klassifikation*). Der nachfolgende Termin ist für Dienstag, 04.11.2025 um 15 Uhr geplant. ([Terminübersicht](https://team-deutschland.org/termine/))
+Das nächste Treffen ist für Dienstag, 04.11.2025 um 15 Uhr angesetzt (*Thema: Höhergradige Gliome im MTB*). Der nachfolgende Termin ist für Dienstag, 20.01.2026 um 15 Uhr geplant. ([Terminübersicht](https://team-deutschland.org/termine/))
 
 **Zur frühzeitigen Information und besseren Absprache bitten wir um Eintragung in den [Mailverteiler](https://forms.gle/TMvsKzPpRwC4bhME6).**
 
