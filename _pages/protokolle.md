@@ -41,8 +41,11 @@ Das Protokoll der Treffen wird zur Zeit erstellt.
 ## 16. TEAM-D Plattformtreffen: Mögliche Pitfalls der NCT-/DKTK-Klassifizierung (Dienstag, 23.09.2025 15 Uhr)  
 Siehe [Termine](https://team-deutschland.org/termine/)! 
 
-## 17. TEAM-D Plattformtreffen: Höhergradige Gliome (Dienstag, 04.11.2025 15 Uhr)  
+## 17. TEAM-D Plattformtreffen: Höhergradige Gliome I (Dienstag, 04.11.2025 15 Uhr)  
 Siehe [Termine](https://team-deutschland.org/termine/)! 
 
-## 18. TEAM-D Plattformtreffen: N.N. (Dienstag, 04.11.2026 15 Uhr)  
+## 18. TEAM-D Plattformtreffen: Höhergradige Gliome I (Dienstag, 20.01.2026 15 Uhr)  
+Siehe [Termine](https://team-deutschland.org/termine/)!
+
+## 19. TEAM-D Plattformtreffen: N.N. (Dienstag, 20.01.2026 15 Uhr)  
 Siehe [Termine](https://team-deutschland.org/termine/)! 

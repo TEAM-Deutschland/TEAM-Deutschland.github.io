@@ -16,13 +16,13 @@ Seit Juni 2023 ist TEAM-D in der AIO-Arbeitsgruppe *Molekulare und Translational
 
 Die Protokolle der Sitzungen zu den Themen [PIK3CA](https://team-deutschland.org/files/1-Protokoll-PIK3CA.pdf) (05.07.2023), [PTEN-AKT-mTOR](https://team-deutschland.org/files/2-Protokoll-PTEN-AKT-mTOR.pdf) (06.09.2023), [BRCA1/2](https://team-deutschland.org/files/3-Protokoll-BRCA1-2.pdf) (17.10.2023), [Non-BRCA HRD](https://team-deutschland.org/files/4-Protokoll-Non-BRCA-HRD.pdf) (05.12.2023), [NF1/2 & MEK1/2](https://team-deutschland.org/files/5-Protokoll-NF-MEK.pdf) (30.01.2024), [Tumormutationslast](https://team-deutschland.org/files/6-Protokoll-Tumormutationslast.pdf) (19.03.2024), [KEAP1](https://team-deutschland.org/files/7-Protokoll-KEAP1.pdf) (07.05.2024), [Indikation zur Rebiopsie I & II](https://team-deutschland.org/files/8-9-Protokoll-Rebiopsie.pdf) (02.07.2024 & 03.09.2024), [FGFR1-4](https://team-deutschland.org/files/10-11-Protokoll-FGFR.pdf) (09.11.2024 & 10.12.2024) sowie [TROP2](https://team-deutschland.org/files/12-13-Protokoll-TROP2.pdf) (25.02.2025 & 01.04.2025) sind [abrufbar](https://team-deutschland.org/protokolle/). 
 
-Die Protokolle zu den Treffen *HER2* (Mai/Juli 2025) und *Mögliche Pitfalls der NCT-/DKTK-Klassifizierung* werden aktuell erstellt.
+Die Protokolle zu den Treffen *HER2* (Mai/Juli 2025), *Mögliche Pitfalls der NCT-/DKTK-Klassifizierung* sowie *Höhergradige Gliome I* (November 2025) werden aktuell erstellt.
 
 Wir freuen uns, dass im Mai 2024 die erste im TEAM-D entstandene Publikation veröffentlicht werden konnte: What Do German Molecular Tumor Boards Recommend in Patients with PIK3CA-Mutated Tumors? *Launch and First Results from the German Transsectoral Molecular Tumor Board Exchange Platform Deutschland* (Pretzell et al., Oncol. Res. Treat. 2024; [pubmed](https://pubmed.ncbi.nlm.nih.gov/38714183/), [doi](https://doi.org/10.1159/000539217)).
 
 *KEAP-GRACE* ist das neueste wissenschaftliche Projekt, welches im TEAM-D enstanden ist, und sich der Rolle von *KEAP1*-Varianten in soliden Tumoren widmet. Weitere Informationen finden sich in der [AIO-Studiendatenbank](https://www.aio-portal.de/studie/222--keap-grace.html) und dem [Studienprotokoll](https://www.aio-portal.de/files/content/studien/studiendatenbank/AIO-TF-0224_s.pdf). 
 
-Das nächste Treffen ist für Dienstag, 04.11.2025 um 15 Uhr angesetzt (*Thema: Höhergradige Gliome im MTB*). Der nachfolgende Termin ist für Dienstag, 20.01.2026 um 15 Uhr geplant. ([Terminübersicht](https://team-deutschland.org/termine/))
+Das nächste Treffen ist für Dienstag, 20.01.2026 um 15 Uhr angesetzt (*Thema: Höhergradige Gliome im MTB II*). Der nachfolgende Termin ist für Dienstag, 10.03.2026 um 15 Uhr geplant ([Terminübersicht](https://team-deutschland.org/termine/)).
 
 **Zur frühzeitigen Information und besseren Absprache bitten wir um Eintragung in den [Mailverteiler](https://forms.gle/TMvsKzPpRwC4bhME6).**
 
