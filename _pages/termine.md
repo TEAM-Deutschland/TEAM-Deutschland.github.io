@@ -42,10 +42,7 @@ author_profile: true
 *Das Protokoll des Treffens wird zur Zeit erstellt.*
 
 ### Höhergradige Gliome I (Dienstag, 04.11.2025 15 Uhr)  
-[Zoom-Link](https://tum-conf.zoom-x.de/j/65531221011?pwd=JJr9aAJX2CKv7ugiaCfWvuBdowaNYZ.1 )  
-Meeting ID: *655 3122 1011*  
-Passcode: *280696*  
-[Outlook-Kalendareintrag](https://team-deutschland.org/files/17.ics)
+*Das Protokoll des Treffens wird zur Zeit erstellt.*
 
 ### Höhergradige Gliome II (Dienstag, 20.01.2026 15 Uhr)  
 [Zoom-Link](https://tum-conf.zoom-x.de/j/66910129194?pwd=y7Jjzyi9D4p2AFYTY47ZWtt452CxYc.1)  
