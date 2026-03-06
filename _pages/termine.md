@@ -55,3 +55,15 @@ Passcode: *686496*
 Meeting ID: *623 7436 6359*  
 Passcode: 079385  
 [Outlook-Kalendareintrag](https://team-deutschland.org/files/19.ics)
+
+### N.N. (Dienstag, 28.04.2026 15 Uhr)  
+[Zoom-Link](https://tum-conf.zoom-x.de/j/62374366359?pwd=wTQBXhjTvc2UPfTXRw4UYHwn2Le9Sa.1)  
+Meeting ID: *660 4395 8693*  
+Passcode: 269900 
+[Outlook-Kalendareintrag](https://team-deutschland.org/files/20.ics)
+
+### N.N. (Dienstag, 30.06.2026 15 Uhr)  
+[Zoom-Link](https://tum-conf.zoom-x.de/j/62374366359?pwd=wTQBXhjTvc2UPfTXRw4UYHwn2Le9Sa.1)  
+Meeting ID: *668 5898 5146*  
+Passcode: 457400  
+[Outlook-Kalendareintrag](https://team-deutschland.org/files/21.ics)

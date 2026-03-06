@@ -44,8 +44,14 @@ Siehe [Termine](https://team-deutschland.org/termine/)!
 ## 17. TEAM-D Plattformtreffen: Höhergradige Gliome I (Dienstag, 04.11.2025 15 Uhr)  
 Siehe [Termine](https://team-deutschland.org/termine/)! 
 
-## 18. TEAM-D Plattformtreffen: Höhergradige Gliome I (Dienstag, 20.01.2026 15 Uhr)  
+## 18. TEAM-D Plattformtreffen: Höhergradige Gliome II (Dienstag, 20.01.2026 15 Uhr)  
 Siehe [Termine](https://team-deutschland.org/termine/)!
 
-## 19. TEAM-D Plattformtreffen: N.N. (Dienstag, 20.01.2026 15 Uhr)  
+## 19. TEAM-D Plattformtreffen: AKT1 (Dienstag, 10.03.2026 15 Uhr)  
+Siehe [Termine](https://team-deutschland.org/termine/)! 
+
+## 19. TEAM-D Plattformtreffen: N.N. (Dienstag, 28.04.2026 15 Uhr)  
+Siehe [Termine](https://team-deutschland.org/termine/)! 
+
+## 19. TEAM-D Plattformtreffen: N.N. (Dienstag, 30.06.2026 15 Uhr)  
 Siehe [Termine](https://team-deutschland.org/termine/)! 
