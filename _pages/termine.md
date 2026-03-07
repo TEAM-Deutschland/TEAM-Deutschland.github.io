@@ -45,12 +45,9 @@ author_profile: true
 *Das Protokoll des Treffens wird zur Zeit erstellt.*
 
 ### Höhergradige Gliome II (Dienstag, 20.01.2026 15 Uhr)  
-[Zoom-Link](https://tum-conf.zoom-x.de/j/66910129194?pwd=y7Jjzyi9D4p2AFYTY47ZWtt452CxYc.1)  
-Meeting ID: *669 1012 9194*  
-Passcode: *686496*  
-[Outlook-Kalendareintrag](https://team-deutschland.org/files/18.ics)
+*Das Protokoll des Treffens wird zur Zeit erstellt.*
 
-### N.N. (Dienstag, 10.03.2026 15 Uhr)  
+### AKT1 (Dienstag, 10.03.2026 15 Uhr)  
 [Zoom-Link](https://tum-conf.zoom-x.de/j/62374366359?pwd=wTQBXhjTvc2UPfTXRw4UYHwn2Le9Sa.1)  
 Meeting ID: *623 7436 6359*  
 Passcode: 079385  
