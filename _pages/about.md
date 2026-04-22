@@ -22,7 +22,7 @@ Wir freuen uns, dass im Mai 2024 die erste im TEAM-D entstandene Publikation ver
 
 *KEAP-GRACE* ist das neueste wissenschaftliche Projekt, welches im TEAM-D enstanden ist, und sich der Rolle von *KEAP1*-Varianten in soliden Tumoren widmet. Weitere Informationen finden sich in der [AIO-Studiendatenbank](https://www.aio-portal.de/studie/222--keap-grace.html) und dem [Studienprotokoll](https://www.aio-portal.de/files/content/studien/studiendatenbank/AIO-TF-0224_s.pdf). 
 
-Das nächste Treffen ist für Dienstag, 10.03.2026 um 15 Uhr angesetzt (*Thema: AKT1*). Die nachfolgenden Termine sind für Dienstag, 28.04.2026 sowie Dienstag, 30.06.2026 um jeweils 15 Uhr geplant ([Terminübersicht](https://team-deutschland.org/termine/)).
+Das nächste Treffen ist für Dienstag, 28.04.2026  um 15 Uhr angesetzt (*Thema: PIK3CA*). Der nachfolgende Termin ist für Dienstag, 30.06.2026 um jeweils 15 Uhr geplant ([Terminübersicht](https://team-deutschland.org/termine/)).
 
 **Zur frühzeitigen Information und besseren Absprache bitten wir um Eintragung in den [Mailverteiler](https://forms.gle/TMvsKzPpRwC4bhME6).**
 

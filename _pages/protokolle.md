@@ -45,9 +45,9 @@ Das Protokoll der Treffen wird zur Zeit erstellt.
 Das Protokoll der Treffen wird zur Zeit erstellt.
 
 ## 19. TEAM-D Plattformtreffen: AKT1 (Dienstag, 10.03.2026 15 Uhr)  
-Siehe [Termine](https://team-deutschland.org/termine/)! 
+Das Protokoll der Treffen wird zur Zeit erstellt.
 
-## 19. TEAM-D Plattformtreffen: N.N. (Dienstag, 28.04.2026 15 Uhr)  
+## 19. TEAM-D Plattformtreffen: PIK3CA (Dienstag, 28.04.2026 15 Uhr)  
 Siehe [Termine](https://team-deutschland.org/termine/)! 
 
 ## 19. TEAM-D Plattformtreffen: N.N. (Dienstag, 30.06.2026 15 Uhr)  

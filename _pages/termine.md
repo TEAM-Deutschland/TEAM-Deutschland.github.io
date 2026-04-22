@@ -48,12 +48,9 @@ author_profile: true
 *Das Protokoll des Treffens wird zur Zeit erstellt.*
 
 ### AKT1 (Dienstag, 10.03.2026 15 Uhr)  
-[Zoom-Link](https://tum-conf.zoom-x.de/j/62374366359?pwd=wTQBXhjTvc2UPfTXRw4UYHwn2Le9Sa.1)  
-Meeting ID: *623 7436 6359*  
-Passcode: 079385  
-[Outlook-Kalendareintrag](https://team-deutschland.org/files/19.ics)
+*Das Protokoll des Treffens wird zur Zeit erstellt.*
 
-### N.N. (Dienstag, 28.04.2026 15 Uhr)  
+### PIK3CA (Dienstag, 28.04.2026 15 Uhr)  
 [Zoom-Link](https://tum-conf.zoom-x.de/j/62374366359?pwd=wTQBXhjTvc2UPfTXRw4UYHwn2Le9Sa.1)  
 Meeting ID: *660 4395 8693*  
 Passcode: 269900 
