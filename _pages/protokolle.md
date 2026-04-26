@@ -41,7 +41,7 @@ Das Protokoll der Treffen wird zur Zeit erstellt.
 ## 16. TEAM-D Plattformtreffen: Mögliche Pitfalls der NCT-/DKTK-Klassifizierung (23.09.2025)  
 Das Protokoll der Treffen wird zur Zeit erstellt.
 
-## 17. TEAM-D Plattformtreffen: Höhergradige Gliome I & II (04.11.2025 & 20.01.2026)  
+## 17. & 18. TEAM-D Plattformtreffen: Höhergradige Gliome I & II (04.11.2025 & 20.01.2026)  
 Das Protokoll der Treffen wird zur Zeit erstellt.
 
 ## 19. TEAM-D Plattformtreffen: AKT1 (Dienstag, 10.03.2026 15 Uhr)  
