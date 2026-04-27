@@ -6,7 +6,7 @@ METHOD:PUBLISH
 CLASS:PUBLIC
 BEGIN:VTIMEZONE
 TZID:Europe/Berlin
-LAST-MODIFIED:20251211T094730Z
+LAST-MODIFIED:20260306T231828Z
 TZURL:https://www.tzurl.org/zoneinfo-outlook/Europe/Berlin
 X-LIC-LOCATION:Europe/Berlin
 BEGIN:DAYLIGHT
@@ -25,21 +25,22 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260306T145732Z
+DTSTAMP:20260427T131743Z
 DTSTART;TZID=Europe/Berlin:20260428T150000
 DTEND;TZID=Europe/Berlin:20260428T163000
-SUMMARY:20. TEAM-D Plattformtreffen (N.N.)
-UID:20260306T145732Z-66043958693@web-prod-eu02-va1-web-788cf98df4-qzq2j
+SUMMARY:20. TEAM-D Treffen (PIK3CA)
+UID:20260427T131743Z-63602475335@web-prod-eu02-va1-web-69d74c57db-8fb74
 TZID:Europe/Berlin
-DESCRIPTION:Sebastian Lange is inviting you to a scheduled Zoom meeting.\
- nJoin Zoom Meeting\nhttps://tum-conf.zoom-x.de/j/66043958693?pwd=QbmLM6b
- JrcV90lYanIqPL671PyaSH9.1\n\nMeeting ID: 660 4395 8693\nPasscode: 269900
- \n\n---\n\nOne tap mobile\n+496938980596\,\,66043958693#\,\,\,\,*269900#
-  Germany\n\n---\n\nJoin by SIP\n• 66043958693@lej.zmeu.us\nPasscode: 269
- 900\n\nJoin instructions\nhttps://tum-conf.zoom-x.de/meetings/6604395869
- 3/invitations?signature=mROX8i_auFlLgce6QqxiQ4Zthb-Q18SCkJ-4dF0X678\n\n
-LOCATION:https://tum-conf.zoom-x.de/j/66043958693?pwd=QbmLM6bJrcV90lYanIq
- PL671PyaSH9.1
+DESCRIPTION:Ina Pretzell lädt Sie zu einem geplanten Zoom-Meeting ein.\nA
+ n Zoom-Meeting teilnehmen\nhttps://uni-due.zoom-x.de/j/63602475335?pwd=J
+ eT9kAUbhWaDgzaU7DE95kMv563mmZ.1\n\nMeeting-ID: 636 0247 5335\nKenncode: 
+ 349433\n\n---\n\nSchnelleinwahl mobil\n+496938980596\,\,63602475335# Deu
+ tschland\n\n---\n\nÜber SIP beitreten\n• 63602475335@lej.zmeu.us\nKennco
+ de: 349433\n\nBeitreten – So geht's\nhttps://uni-due.zoom-x.de/meetings/
+ 63602475335/invitations?signature=PFzsp3C_oGblcOu1pnoWUgCECXJmzIAV6Syn2R
+ HuNoY\n\n
+LOCATION:https://uni-due.zoom-x.de/j/63602475335?pwd=JeT9kAUbhWaDgzaU7DE9
+ 5kMv563mmZ.1
 BEGIN:VALARM
 TRIGGER:-PT10M
 ACTION:DISPLAY

@@ -51,13 +51,13 @@ author_profile: true
 *Das Protokoll des Treffens wird zur Zeit erstellt.*
 
 ### PIK3CA (Dienstag, 28.04.2026 15 Uhr)  
-[Zoom-Link](https://tum-conf.zoom-x.de/j/62374366359?pwd=wTQBXhjTvc2UPfTXRw4UYHwn2Le9Sa.1)  
-Meeting ID: *660 4395 8693*  
-Passcode: 269900 
+[Zoom-Link](https://uni-due.zoom-x.de/j/63602475335?pwd=JeT9kAUbhWaDgzaU7DE95kMv563mmZ.1)  
+Meeting ID: *636 0247 5335*
+Passcode: 349433 
 [Outlook-Kalendareintrag](https://team-deutschland.org/files/20.ics)
 
 ### N.N. (Dienstag, 30.06.2026 15 Uhr)  
-[Zoom-Link](https://tum-conf.zoom-x.de/j/62374366359?pwd=wTQBXhjTvc2UPfTXRw4UYHwn2Le9Sa.1)  
-Meeting ID: *668 5898 5146*  
-Passcode: 457400  
+[Zoom-Link](https://uni-due.zoom-x.de/j/64226278422?pwd=NYH1ClCVbbVXOg7qQxCKDDwVV1rZp4.1)  
+Meeting ID: *642 2627 8422*  
+Passcode: 097328 
 [Outlook-Kalendareintrag](https://team-deutschland.org/files/21.ics)
